@@ -22,6 +22,8 @@ const guides = [
   { slug: "true-hepa-vs-hepa-type", title: "True HEPA vs HEPA-Type", description: "A standards-first guide to filter grades and what actually protects respiratory health.", category: "Education" },
   { slug: "cadr-rating-explained", title: "CADR Rating Explained", description: "How to read CADR and match purifier performance to room size.", category: "Education" },
   { slug: "best-air-purifier-allergies", title: "Best Air Purifier for Allergies", description: "Top allergy-focused HEPA picks for pollen, dust mites, pet dander, and mold.", category: "Health Guide" },
+  { slug: "best-air-purifier-smoke", title: "Best Air Purifier for Smoke", description: "Wildfire and cigarette smoke picks compared by CADR and carbon capacity.", category: "Health Guide" },
+  { slug: "air-purifier-filter-replacement", title: "Air Purifier Filter Replacement", description: "Brand-by-brand replacement intervals, cost table, and maintenance checklists.", category: "Maintenance" },
 ];
 
 export default function HomePage() {
