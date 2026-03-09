@@ -3,6 +3,7 @@ import path from "path";
 import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
+import remarkGfm from "remark-gfm";
 
 export interface Article {
   slug: string;
@@ -20,6 +21,10 @@ export interface Article {
 }
 
 const CONTENT_DIR = path.join(process.cwd(), "content");
+
+function toSlug(text: string): string {
+  return text.toLowerCase().replace(/[^a-z0-9\s-]/g, "").replace(/\s+/g, "-").replace(/-+/g, "-").trim();
+}
 
 function parseJsonField(value: unknown): Record<string, unknown> | null {
   if (!value || typeof value !== "string") return null;
@@ -48,7 +53,7 @@ export async function getArticle(slug: string): Promise<Article | null> {
   const data = parsed.data as Record<string, unknown>;
 
   const content = processContent(parsed.content);
-  const result = await remark().use(html, { sanitize: false }).process(content);
+  const result = await remark().use(remarkGfm).use(html, { sanitize: false }).process(content);
 
   const title = (data.title as string) || slug;
   const description = (data.meta_description as string) || "Air purifier guide article.";
@@ -56,6 +61,14 @@ export async function getArticle(slug: string): Promise<Article | null> {
   const date = (data.datePublished as string) || "2026-03-10";
   const dateModified = (data.dateModified as string) || date;
   const category = "Guide";
+
+  let htmlContent = result.toString();
+
+  htmlContent = htmlContent.replace(/<(h[2-4])>(.*?)<\/\1>/g, (match, tag, text) => {
+    const cleanText = text.replace(/<[^>]+>/g, "");
+    const id = toSlug(cleanText);
+    return `<${tag} id="${id}">${text}</${tag}>`;
+  });
 
   const excerptMatch = parsed.content.match(/\*\*(.*?)\*\*/);
   const excerpt = excerptMatch ? excerptMatch[1].trim() : description;
@@ -66,7 +79,7 @@ export async function getArticle(slug: string): Promise<Article | null> {
     description,
     excerpt,
     content,
-    htmlContent: result.toString(),
+    htmlContent,
     date,
     dateModified,
     category,
