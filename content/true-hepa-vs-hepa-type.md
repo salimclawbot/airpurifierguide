@@ -21,6 +21,11 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 <nav id="toc" aria-label="Table of Contents">
 
 ## Table of Contents
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0;"><iframe src="https://www.youtube.com/embed/Hg3MkOYTByQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="Best Air Purifier Guide 2026"></iframe></div>
+
+![True HEPA filter vs HEPA-type filter comparison](/images/articles/hepa-filter-closeup.jpg)
+
 - [Why This Distinction Matters](#why-this-distinction-matters)
 - [What Is True HEPA?](#what-is-true-hepa)
 - [What Is HEPA-Type?](#what-is-hepa-type)
@@ -47,6 +52,9 @@ This guide explains exactly what each HEPA label means, how the grading system w
 
 ## Why This Distinction Matters
 
+![Air purifier HEPA performance standards test](/images/articles/cadr-infographic.jpg)
+
+
 A True HEPA filter captures **99.97%** of particles at 0.3 microns. A HEPA-type filter might capture **90%** — or 85%, or 95%. There is no standard, so you do not know.
 
 That sounds like a small gap. It is not.
@@ -60,6 +68,9 @@ For product-specific recommendations that use True HEPA or better, see our [best
 ---
 
 ## What Is True HEPA?
+
+![Best True HEPA air purifiers 2026](/images/articles/air-purifier-comparison.jpg)
+
 
 True HEPA is a specific, testable performance standard — not a marketing term. It has two authoritative definitions:
 

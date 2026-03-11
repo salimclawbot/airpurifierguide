@@ -21,6 +21,8 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 <nav id="toc" aria-label="Table of Contents">
 
 ## Table of Contents
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0;"><iframe src="https://www.youtube.com/embed/Hg3MkOYTByQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="Best Air Purifier Guide 2026"></iframe></div>
 - [Why Air Purifiers Matter for Asthma](#why-air-purifiers-matter-for-asthma)
 - [How We Evaluate: CADR, ACH, and What Actually Matters](#how-we-evaluate-cadr-ach-and-what-actually-matters)
 - [Comparison Table: 5 Best Air Purifiers for Asthma](#comparison-table-5-best-air-purifiers-for-asthma)

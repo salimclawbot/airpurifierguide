@@ -21,6 +21,8 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 <nav id="toc" aria-label="Table of Contents">
 
 ## Table of Contents
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0;"><iframe src="https://www.youtube.com/embed/Hg3MkOYTByQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="Best Air Purifier Guide 2026"></iframe></div>
 - [Why Nursery Air Quality Matters](#why-nursery-air-quality-matters)
 - [The Three Non-Negotiables for Baby Room Purifiers](#the-three-non-negotiables-for-baby-room-purifiers)
 - [Comparison Table: 5 Best Air Purifiers for Baby Rooms](#comparison-table-5-best-air-purifiers-for-baby-rooms)

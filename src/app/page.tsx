@@ -34,7 +34,7 @@ export default function HomePage() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 text-center">
           <span className="inline-block bg-cyan-100 text-cyan-700 text-sm font-medium px-3 py-1 rounded-full mb-4">Updated for 2026</span>
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-gray-900 leading-tight tracking-tight">
-            Breathe Cleaner with <span className="text-cyan-700">Air Purifier Guide</span>
+            Best Air Purifiers (2026): Expert-Tested HEPA Picks for Every Home
           </h1>
           <p className="mt-6 text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto leading-relaxed">
             Evidence-led reviews and buying guides to help you choose the right air purifier for your home.

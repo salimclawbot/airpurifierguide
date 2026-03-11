@@ -21,6 +21,11 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 <nav id="toc" aria-label="Table of Contents">
 
 ## Table of Contents
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0;"><iframe src="https://www.youtube.com/embed/Hg3MkOYTByQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="Best Air Purifier Guide 2026"></iframe></div>
+
+![Air purifier removing mold spores from air](/images/articles/air-purifier-pets.jpg)
+
 - [Why Mold Is an Air Quality Problem](#why-mold-is-an-air-quality-problem)
 - [What Air Purifiers Can and Cannot Do About Mold](#what-air-purifiers-can-and-cannot-do-about-mold)
 - [How We Evaluate: HEPA, CADR, and Carbon for Mold](#how-we-evaluate-hepa-cadr-and-carbon-for-mold)
@@ -52,6 +57,9 @@ For asthma-specific air purifier recommendations where mold is a trigger, see ou
 
 ## Why Mold Is an Air Quality Problem
 
+![HEPA filter mold spore capture close up](/images/articles/hepa-filter-closeup.jpg)
+
+
 Mold is a living organism that reproduces by releasing spores — microscopic particles that travel through air, settle on surfaces, and germinate wherever moisture is available. A single mold colony can release millions of spores per day.
 
 ### What Makes Mold Spores Dangerous
@@ -78,6 +86,9 @@ Mold requires three things: moisture, an organic food source, and a surface temp
 ---
 
 ## What Air Purifiers Can and Cannot Do About Mold
+
+![Best air purifiers for mold comparison 2026](/images/articles/air-purifier-comparison.jpg)
+
 
 This distinction is critical. Most guides gloss over it, and buyers end up expecting air purifiers to solve problems they physically cannot solve.
 

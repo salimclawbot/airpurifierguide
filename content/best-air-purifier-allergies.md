@@ -21,6 +21,11 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 <nav id="toc" aria-label="Table of Contents">
 
 ## Table of Contents
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0;"><iframe src="https://www.youtube.com/embed/Hg3MkOYTByQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="Best Air Purifier Guide 2026"></iframe></div>
+
+![Air purifier running for allergy relief clean home](/images/articles/air-purifier-pets.jpg)
+
 - [Why Allergy Sufferers Need a HEPA Air Purifier](#why-allergy-sufferers-need-a-hepa-air-purifier)
 - [The Four Major Indoor Allergens](#the-four-major-indoor-allergens)
 - [Comparison Table: 5 Best Air Purifiers for Allergies](#comparison-table-5-best-air-purifiers-for-allergies)
@@ -54,6 +59,9 @@ This guide evaluates five air purifiers specifically through the lens of allergy
 
 ## Why Allergy Sufferers Need a HEPA Air Purifier
 
+![HEPA filter captures pollen dust allergens](/images/articles/hepa-filter-closeup.jpg)
+
+
 ### The Allergen Exposure Problem
 
 Indoor allergen concentrations are often higher than outdoor concentrations — your home traps and concentrates particles that would otherwise disperse in open air. The EPA estimates that indoor air can be 2–5 times more polluted than outdoor air, and Americans spend approximately 90% of their time indoors.
@@ -78,6 +86,9 @@ HEPA filters are extremely effective against allergens because allergens are rel
 ---
 
 ## The Four Major Indoor Allergens
+
+![Best air purifiers for allergies infographic](/images/articles/cadr-infographic.jpg)
+
 
 ### 1. Pollen (Seasonal)
 

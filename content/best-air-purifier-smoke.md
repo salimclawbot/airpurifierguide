@@ -21,6 +21,11 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 <nav id="toc" aria-label="Table of Contents">
 
 ## Table of Contents
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0;"><iframe src="https://www.youtube.com/embed/Hg3MkOYTByQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="Best Air Purifier Guide 2026"></iframe></div>
+
+![Air purifier for smoke wildfire filtration](/images/articles/air-purifier-pets.jpg)
+
 - [Why Smoke Is Harder to Filter Than Other Pollutants](#why-smoke-is-harder-to-filter-than-other-pollutants)
 - [Wildfire Smoke vs Cigarette Smoke: Different Problems](#wildfire-smoke-vs-cigarette-smoke-different-problems)
 - [What Makes a Smoke Air Purifier Different](#what-makes-a-smoke-air-purifier-different)
@@ -45,6 +50,9 @@ This guide focuses on purifiers that address both halves of the smoke problem. E
 ---
 
 ## Why Smoke Is Harder to Filter Than Other Pollutants
+
+![HEPA carbon filter smoke particle capture](/images/articles/hepa-filter-closeup.jpg)
+
 
 Smoke is not one thing. It is a mixture of:
 
@@ -79,6 +87,9 @@ A purifier with only HEPA clears the haze but leaves the smell and chemicals. A 
 ---
 
 ## Wildfire Smoke vs Cigarette Smoke: Different Problems
+
+![Best air purifiers for smoke comparison](/images/articles/air-purifier-comparison.jpg)
+
 
 ### Wildfire Smoke: Primarily Particulate
 

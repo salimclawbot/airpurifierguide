@@ -21,6 +21,11 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 <nav id="toc" aria-label="Table of Contents">
 
 ## Table of Contents
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0;"><iframe src="https://www.youtube.com/embed/Hg3MkOYTByQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="Best Air Purifier Guide 2026"></iframe></div>
+
+![Coway vs Levoit air purifier comparison side by side](/images/articles/levoit-vs-coway.jpg)
+
 - [Why Coway vs Levoit Is the Real Decision](#why-coway-vs-levoit-is-the-real-decision)
 - [Side-by-Side Comparison Table](#side-by-side-comparison-table)
 - [Head-to-Head: Filtration Performance](#head-to-head-filtration-performance)
@@ -50,6 +55,9 @@ This comparison evaluates four models — two from each brand — across every m
 
 ## Why Coway vs Levoit Is the Real Decision
 
+![HEPA filter comparison Coway Levoit](/images/articles/hepa-filter-closeup.jpg)
+
+
 Premium brands like IQAir, Dyson, and Blueair have their place, but most buyers do not need (or want to pay for) them. At the $100–350 price range, Coway and Levoit offer HEPA-grade filtration, AHAM-certified performance, CARB certification, and proven reliability — the essentials without the premium markup.
 
 The real question is not "are these good purifiers?" (they are) but "which philosophy matches your priorities?"
@@ -63,6 +71,9 @@ For those new to air purifier filtration standards, our [true HEPA vs HEPA-type 
 ---
 
 ## Side-by-Side Comparison Table
+
+![Air purifier performance comparison infographic](/images/articles/air-purifier-comparison.jpg)
+
 
 | Specification | Coway AP-1512HH | Coway Airmega 400S | Levoit Core 300S | Levoit Core 400S |
 |--------------|:---------------:|:------------------:|:----------------:|:----------------:|

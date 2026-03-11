@@ -21,6 +21,8 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 <nav id="toc" aria-label="Table of Contents">
 
 ## Table of Contents
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0;"><iframe src="https://www.youtube.com/embed/Hg3MkOYTByQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="Best Air Purifier Guide 2026"></iframe></div>
 - [What CADR Actually Measures](#what-cadr-actually-measures)
 - [The Three CADR Numbers: Smoke, Dust, and Pollen](#the-three-cadr-numbers-smoke-dust-and-pollen)
 - [Why Smoke CADR Is the Number That Matters](#why-smoke-cadr-is-the-number-that-matters)

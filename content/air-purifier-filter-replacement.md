@@ -21,6 +21,11 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 <nav id="toc" aria-label="Table of Contents">
 
 ## Table of Contents
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0;"><iframe src="https://www.youtube.com/embed/Hg3MkOYTByQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="Best Air Purifier Guide 2026"></iframe></div>
+
+![HEPA filter cross section closeup](/images/articles/hepa-filter-closeup.jpg)
+
 - [Why Filter Replacement Matters](#why-filter-replacement-matters)
 - [Brand-by-Brand Replacement Schedule](#brand-by-brand-replacement-schedule)
 - [Filter Cost Comparison Table](#filter-cost-comparison-table)
@@ -47,6 +52,9 @@ This guide provides exact replacement schedules for every major brand, a cost co
 
 ## Why Filter Replacement Matters
 
+![Air purifier comparison infographic 2026](/images/articles/air-purifier-comparison.jpg)
+
+
 ### What Happens Inside an Aging Filter
 
 HEPA filters work by trapping particles in a dense mat of glass fibers. As the filter captures more particles over months of operation, three things happen:
@@ -71,6 +79,9 @@ HEPA filters work by trapping particles in a dense mat of glass fibers. As the f
 ---
 
 ## Brand-by-Brand Replacement Schedule
+
+![Levoit vs Coway air purifier comparison](/images/articles/levoit-vs-coway.jpg)
+
 
 ### Complete Schedule Table
 
