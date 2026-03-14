@@ -27,6 +27,7 @@ const guides = [
   { slug: "best-air-purifier-smoke", title: "Best Air Purifier for Smoke", description: "Wildfire and cigarette smoke picks compared by CADR and carbon capacity.", category: "Health Guide" },
   { slug: "air-purifier-filter-replacement", title: "Air Purifier Filter Replacement", description: "Brand-by-brand replacement intervals, cost table, and maintenance checklists.", category: "Maintenance" },
   { slug: "air-purifier-noise-levels", title: "Air Purifier Noise Levels: What to Expect at Night", description: "Real decibel tests across 8 popular models. Find the quietest air purifier for bedroom use.", category: "Bedroom Guide" },
+  { slug: "best-air-purifier-wildfire-smoke", title: "Best Air Purifier for Wildfire Smoke (2026)", description: "Top HEPA picks ranked by CADR for smoke, filter efficiency, and real wildfire smoke performance.", category: "Health Guide" },
 ];
 
 export default function HomePage() {
