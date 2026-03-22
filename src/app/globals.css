@@ -162,22 +162,22 @@ body {
   }
 }
 
-/* Mobile table fix — prevent vertical text stacking */
-.prose .table-scroll-wrapper {
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-  width: 100%;
-  margin: 1.5rem 0;
+/* Article image enhancements */
+.prose img {
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.10);
+  margin: 2rem auto;
+  display: block;
+  max-width: 100%;
 }
-
-@media (max-width: 768px) {
-  .prose table {
-    min-width: 560px;
-    white-space: nowrap;
-  }
-  .prose td, .prose th {
-    white-space: nowrap;
-  }
+.prose em {
+  display: block;
+  text-align: center;
+  font-size: 0.875rem;
+  color: #64748b;
+  margin-top: -1rem;
+  margin-bottom: 1.5rem;
+  font-style: italic;
 }
 
 /* Responsive images — prevent overflow */
@@ -277,26 +277,5 @@ article table,
   padding: 1rem 1.5rem;
   background: #f8fafc;
   border-radius: 0 8px 8px 0;
-}
-
-/* Mobile overflow fixes */
-body {
-  overflow-x: hidden;
-}
-
-.prose img,
-.prose video,
-.prose table,
-.prose pre {
-  max-width: 100%;
-  overflow-x: auto;
-}
-
-.product-grid,
-.product-card,
-.room-grid,
-.day-card {
-  overflow-wrap: break-word;
-  word-break: break-word;
 }
 

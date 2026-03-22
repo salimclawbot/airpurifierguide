@@ -1,1 +1,16 @@
-{"scope":"salimclawbots-projects"}
+{
+  "scope": "salimclawbots-projects",
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.adhdproductivitytips.com"
+        }
+      ],
+      "destination": "https://adhdproductivitytips.com/:path*",
+      "permanent": true
+    }
+  ]
+}

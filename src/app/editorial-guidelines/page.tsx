@@ -1,14 +1,14 @@
-export const metadata = { title: "Editorial Guidelines | Tinnitus Guides" };
+export const metadata = { title: "Editorial Guidelines | ADHD Productivity Tips" };
 
 export default function EditorialGuidelinesPage() {
   return (
     <div className="max-w-3xl mx-auto px-4 sm:px-6 py-10 space-y-6">
       <h1 className="text-3xl font-bold">Editorial Guidelines</h1>
-      <p className="text-lg text-gray-600">How we research, write, and review content at Tinnitus Guides.</p>
+      <p className="text-lg text-gray-600">How we research, write, and review content at ADHD Productivity Tips.</p>
 
       <section className="space-y-3">
         <h2 className="text-2xl font-semibold">Our Commitment to Accuracy</h2>
-        <p>Every guide and review published on Tinnitus Guides is thoroughly researched before publication. Our writers draw on peer-reviewed research, expert interviews, and hands-on product testing to ensure the information we provide about tinnitus management and hearing health is accurate, up-to-date, and genuinely useful.</p>
+        <p>Every guide and review published on ADHD Productivity Tips is thoroughly researched before publication. Our writers draw on peer-reviewed research, expert interviews, and hands-on product testing to ensure the information we provide about ADHD productivity and focus is accurate, up-to-date, and genuinely useful.</p>
       </section>
 
       <section className="space-y-3">
@@ -26,7 +26,7 @@ export default function EditorialGuidelinesPage() {
         <p>If you spot an error in our content, please <a href="/contact" className="text-blue-600 hover:underline">contact us</a>. We take accuracy seriously and will investigate and correct verified errors promptly.</p>
       </section>
 
-      <p><a href="/" className="text-blue-600 hover:underline">← Back to Tinnitus Guides</a></p>
+      <p><a href="/" className="text-blue-600 hover:underline">← Back to ADHD Productivity Tips</a></p>
     </div>
   );
 }
