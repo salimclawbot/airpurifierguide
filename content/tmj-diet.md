@@ -1,7 +1,7 @@
 ---
 title: "TMJ Diet Guide: Foods That Help and Hurt Your Jaw"
 slug: "tmj-diet"
-description: "Fatty fish (salmon, mackerel, sardines):"
+description: "Learn which foods help and hurt your TMJ. Discover soft foods to eat, trigger foods to avoid, anti-inflammatory nutrition, and supplements for TMJ pain relief. Complete dietary guide for jaw pain management."
 publishedAt: "2026-03-28"
 author: "Expert Team"
 image: "/images/tmj-diet-hero.png"
@@ -294,6 +294,8 @@ If you clench or grind at night and are considering a mouth guard alongside diet
 
 Many patients are told to "eat soft foods" without much additional guidance. A TMJ-specific diet goes further than a standard post-surgical or dental soft diet. Here is how they compare:
 
+<div style="overflow-x:auto;margin:1.5rem 0;">
+
 | Feature | Standard Soft Diet | TMJ-Specific Diet |
 |---|---|---|
 | **Texture focus** | Soft foods to protect teeth or surgical sites | Soft foods to minimize jaw joint stress and muscle fatigue |
@@ -306,6 +308,8 @@ Many patients are told to "eat soft foods" without much additional guidance. A T
 | **Temperature consideration** | May avoid hot foods post-surgery | Warm foods preferred — heat relaxes muscles; very cold can trigger spasm |
 | **Hydration emphasis** | General | Specific — adequate hydration supports synovial fluid production |
 | **Caffeine and alcohol** | Not typically restricted | Limited — both can increase muscle tension and inflammation |
+
+</div>
 
 ---
 
