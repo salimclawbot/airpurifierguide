@@ -20,18 +20,18 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 <nav id="toc" aria-label="Table of Contents">
 
 ## Table of Contents
-- [What is the Pomodoro Technique?](#what-is-pomodoro)
-- [Why Pomodoro Appeals to ADHD Brains](#why-it-appeals)
-- [Why Standard Pomodoro Fails ADHD](#why-it-fails)
-- [The ADHD-Modified Pomodoro](#adhd-modified)
-- [Optimal Timer Intervals by Task Type](#timer-intervals)
-- [Hyperfocus and Pomodoro: When to Ignore the Timer](#hyperfocus)
-- [Transition Difficulty: The Break Re-Entry Problem](#transition)
-- [Best Pomodoro Apps for ADHD](#best-apps)
-- [Pomodoro Combined with Other ADHD Strategies](#combined-strategies)
-- [Who Pomodoro Works Best For (ADHD Subtypes)](#adhd-subtypes)
+- [What is the Pomodoro Technique?](#what-is-the-pomodoro-technique)
+- [Why Pomodoro Appeals to ADHD Brains](#why-pomodoro-appeals-to-adhd-brains)
+- [Why Standard Pomodoro Fails ADHD](#why-standard-pomodoro-fails-adhd)
+- [The ADHD-Modified Pomodoro](#the-adhd-modified-pomodoro)
+- [Optimal Timer Intervals by Task Type](#optimal-timer-intervals-by-task-type)
+- [Hyperfocus and Pomodoro: When to Ignore the Timer](#problem-2-breaks-interrupt-hyperfocus)
+- [Transition Difficulty: The Break Re-Entry Problem](#chunk-decomposition)
+- [Best Pomodoro Apps for ADHD](#best-pomodoro-apps-for-adhd)
+- [Pomodoro Combined with Other ADHD Strategies](#pomodoro-combined-with-other-adhd-strategies)
+- [Who Pomodoro Works Best For (ADHD Subtypes)](#who-pomodoro-works-best-for-adhd-subtypes)
 - [Frequently Asked Questions](#faq)
-- [Sources and Methodology](#sources)
+- [Sources and Methodology](#sources-and-methodology)
 
 </nav>
 
@@ -44,7 +44,7 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 ![Person with ADHD using Pomodoro timer on phone focused at desk](/images/articles/pomodoro-technique-for-adhd/hero-pomodoro-adhd.jpg)
 *Pomodoro with ADHD: the core mechanism (artificial urgency) is right — the intervals need modification.*
 
-## What is the Pomodoro Technique? {#what-is-pomodoro}
+## What is the Pomodoro Technique?
 
 The Pomodoro Technique, developed by Francesco Cirillo in the late 1980s, structures work into defined time blocks:
 
@@ -67,7 +67,7 @@ For the neurotypical brain, this works well. For the ADHD brain, the mechanism i
 ![Visual Time Timer with red wedge decreasing showing time awareness for ADHD](/images/articles/pomodoro-technique-for-adhd/time-timer-visual.jpg)
 *The Time Timer provides visual time awareness — critical for ADHD time blindness.*
 
-## Why Pomodoro Appeals to ADHD Brains {#why-it-appeals}
+## Why Pomodoro Appeals to ADHD Brains
 
 The Pomodoro Technique addresses core ADHD challenges:
 
@@ -88,7 +88,7 @@ Counting completed Pomodoros provides tangible evidence of work completion — i
 ![Modified Pomodoro technique diagram with 15-minute intervals for ADHD](/images/articles/pomodoro-technique-for-adhd/modified-pomodoro-diagram.jpg)
 *ADHD-modified Pomodoro: 15-minute intervals with flexible breaks work better than the standard 25/5 split.*
 
-## Why Standard Pomodoro Fails ADHD {#why-it-fails}
+## Why Standard Pomodoro Fails ADHD
 
 Despite its appeal, the standard Pomodoro method creates specific ADHD problems:
 
@@ -116,7 +116,7 @@ ADHD brains are susceptible to hyperfocusing on break activities. Five minutes o
 
 ---
 
-## The ADHD-Modified Pomodoro {#adhd-modified}
+## The ADHD-Modified Pomodoro
 
 These modifications make Pomodoro more effective for ADHD:
 
@@ -165,7 +165,7 @@ The ritual cues your brain that work is starting. Over time, it becomes automati
 
 ---
 
-## Optimal Timer Intervals by Task Type {#timer-intervals}
+## Optimal Timer Intervals by Task Type
 
 Different tasks have different optimal intervals for ADHD:
 
@@ -186,7 +186,7 @@ Different tasks have different optimal intervals for ADHD:
 ![Person in deep hyperfocus state working productively on computer](/images/articles/pomodoro-technique-for-adhd/hyperfocus-state.jpg)
 *Hyperfocus is a productivity asset for ADHD — the modified Pomodoro allows it to continue past the timer.*
 
-## Hyperfocus and Pomodoro: When to Ignore the Timer {#hyperfocus}
+## Hyperfocus and Pomodoro: When to Ignore the Timer
 
 Hyperfocus is a feature of ADHD, not just a bug. When the ADHD brain locks onto an engaging task, it can sustain focus for hours at an intensity that neurotypical brains rarely achieve. This is valuable and should be protected.
 
@@ -209,7 +209,7 @@ Hyperfocus is a feature of ADHD, not just a bug. When the ADHD brain locks onto 
 ![Sticky note with specific next action written before taking Pomodoro break](/images/articles/pomodoro-technique-for-adhd/next-action-sticky.jpg)
 *Stop mid-sentence and leave a next-action sticky note — makes re-entry after breaks significantly easier.*
 
-## Transition Difficulty: The Break Re-Entry Problem {#transition}
+## Transition Difficulty: The Break Re-Entry Problem
 
 Returning from a break is one of the hardest moments for ADHD adults. Here's what happens neurologically:
 
@@ -230,7 +230,7 @@ During a break, the brain resets its dopamine baseline. The task you were workin
 ![ADHD brain dopamine motivation diagram showing interest-based activation](/images/articles/pomodoro-technique-for-adhd/adhd-motivation-diagram.jpg)
 *ADHD motivation is interest-based, not importance-based — Pomodoro creates artificial interest through urgency.*
 
-## Best Pomodoro Apps for ADHD {#best-apps}
+## Best Pomodoro Apps for ADHD
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.5rem;margin:2rem 0;">
 
@@ -264,7 +264,7 @@ For comprehensive habit tracking that complements Pomodoro sessions, see our rel
 ![Virtual body doubling video call two people working silently together](/images/articles/pomodoro-technique-for-adhd/body-doubling.jpg)
 *Body doubling via Focusmate amplifies the urgency effect of Pomodoro timers.*
 
-## Pomodoro Combined with Other ADHD Strategies {#combined-strategies}
+## Pomodoro Combined with Other ADHD Strategies
 
 Pomodoro works better when layered with complementary ADHD strategies:
 
@@ -286,7 +286,7 @@ Front-load your day with the Pomodoro intervals that contain interesting work. A
 ![ADHD subtypes chart comparing inattentive hyperactive combined type and Pomodoro effectiveness](/images/articles/pomodoro-technique-for-adhd/modified-pomodoro-diagram.jpg)
 *ADHD subtypes respond differently to Pomodoro — inattentive type benefits most from the external timer structure.*
 
-## Who Pomodoro Works Best For (ADHD Subtypes) {#adhd-subtypes}
+## Who Pomodoro Works Best For (ADHD Subtypes)
 
 | ADHD Type | Pomodoro Effectiveness | Best Configuration |
 |---|---|---|
@@ -298,7 +298,7 @@ Front-load your day with the Pomodoro intervals that contain interesting work. A
 
 ---
 
-## Frequently Asked Questions {#faq}
+## Frequently Asked Questions
 
 **Does the Pomodoro Technique work for ADHD?**
 
@@ -326,7 +326,7 @@ Forest (gamified), Time Timer (visual countdown), and Focusmate (body doubling) 
 
 ---
 
-## Sources and Methodology {#sources}
+## Sources and Methodology
 
 **References:**
 - Cirillo F. The Pomodoro Technique. FC Garage GmbH, 2013.

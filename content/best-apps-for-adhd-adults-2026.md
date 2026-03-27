@@ -33,7 +33,7 @@ article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"
 - [The Novelty Trap: Why You Keep Switching Apps](#the-novelty-trap-why-you-keep-switching-apps)
 - [Recommended App Stacks by ADHD Profile](#recommended-app-stacks-by-adhd-profile)
 - [FAQ](#faq)
-- [Sources & Methodology](#sources--methodology)
+- [Sources & Methodology](#sources-and-methodology)
 
 ---
 
@@ -463,7 +463,7 @@ No more than three to four core apps. Every additional app adds cognitive overhe
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This article is based on hands-on testing, client tracking data, and published research on ADHD and technology-assisted interventions.
 

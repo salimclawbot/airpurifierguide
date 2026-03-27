@@ -29,18 +29,18 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 - [Top 7 ADHD Planners at a Glance](#top-7-adhd-planners-at-a-glance)
 - [How We Tested](#how-we-tested)
 - [Detailed Reviews](#detailed-reviews)
-  - [1. Panda Planner Pro — Best Overall](#1-panda-planner-pro--best-overall)
-  - [2. Clever Fox ADHD Planner — Best ADHD-Specific Design](#2-clever-fox-adhd-planner--best-adhd-specific-design)
-  - [3. The ADHD Planner by Brili — Best for Time Blindness](#3-the-adhd-planner-by-brili--best-for-time-blindness)
-  - [4. Planner Pad — Best for Brain Dumping](#4-planner-pad--best-for-brain-dumping)
-  - [5. Ink+Volt Planner — Best Minimalist Option](#5-inkvolt-planner--best-minimalist-option)
-  - [6. Passion Planner — Best for Goal Setting](#6-passion-planner--best-for-goal-setting)
-  - [7. Happy Planner (Classic) — Best Customizable System](#7-happy-planner-classic--best-customizable-system)
+  - [1. Panda Planner Pro — Best Overall](#1-panda-planner-pro-best-overall)
+  - [2. Clever Fox ADHD Planner — Best ADHD-Specific Design](#2-clever-fox-adhd-planner-best-adhd-specific-design)
+  - [3. The ADHD Planner by Brili — Best for Time Blindness](#3-the-adhd-planner-by-brili-best-for-time-blindness)
+  - [4. Planner Pad — Best for Brain Dumping](#4-planner-pad-best-for-brain-dumping)
+  - [5. Ink+Volt Planner — Best Minimalist Option](#5-inkvolt-planner-best-minimalist-option)
+  - [6. Passion Planner — Best for Goal Setting](#6-passion-planner-best-for-goal-setting)
+  - [7. Happy Planner (Classic) — Best Customizable System](#7-happy-planner-classic-best-customizable-system)
 - [ADHD Planner vs. Digital App: Which Is Better?](#adhd-planner-vs-digital-app-which-is-better)
 - [What to Look for in an ADHD Planner](#what-to-look-for-in-an-adhd-planner)
 - [How to Actually Use Your Planner (ADHD-Friendly Habits)](#how-to-actually-use-your-planner-adhd-friendly-habits)
 - [FAQ](#faq)
-- [Sources & Methodology](#sources--methodology)
+- [Sources & Methodology](#sources-and-methodology)
 
 ---
 
@@ -48,7 +48,6 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 
 Most planners are designed for neurotypical executive function. They assume you can hold a week's worth of tasks in working memory, self-initiate without external cues, accurately estimate how long things take, and maintain motivation without visual reward. For the roughly 4.4% of U.S. adults with ADHD — a figure from the National Institute of Mental Health — those assumptions are a setup for failure.
 
-<!-- NANO_BANANA_PROMPT: A frustrated adult sitting at a desk with an open generic weekly planner, surrounded by colorful sticky notes falling off the pages, coffee cup half-empty, warm overhead lighting, photorealistic style, shallow depth of field, conveying overwhelm and planning paralysis -->
 
 The core issue is executive function. ADHD impairs the brain's prefrontal cortex operations responsible for planning, prioritizing, initiating tasks, and managing time. Dr. Russell Barkley's research on ADHD and executive function has repeatedly demonstrated that the disorder is fundamentally a self-regulation deficit, not a knowledge deficit. You know what you need to do — the planner's job is to externalize the brain's missing scaffolding.
 
@@ -95,7 +94,6 @@ We evaluated six criteria that map directly to ADHD executive function challenge
 
 Each planner also received a physical evaluation: paper quality, binding durability, lay-flat capability, pen compatibility, and portability.
 
-<!-- NANO_BANANA_PROMPT: A flat lay photo of seven different planners spread across a wooden desk, each open to a daily page, with pens, highlighters, and sticker sheets scattered between them, bright natural window light from the left, overhead shot, warm editorial photography style -->
 
 ---
 
@@ -142,7 +140,6 @@ The Panda Planner Pro is undated, which is critical for ADHD users. Our testers 
 
 The Clever Fox ADHD Planner is one of the few planners on the market explicitly designed for ADHD executive function challenges. While other planners on this list are "ADHD-friendly by accident," the Clever Fox was purpose-built with input from ADHD coaches, and that intentionality shows on every page.
 
-<!-- NANO_BANANA_PROMPT: Close-up shot of an open planner on a cafe table, showing a colorful daily page with checkboxes, priority markers, and a time-blocking column, a hand holding a pen about to write, latte in the background, warm ambient light, shallow depth of field, lifestyle photography -->
 
 Each daily spread includes an Eisenhower-style priority matrix (urgent/important, important/not urgent, urgent/not important, neither) that forces the user to categorize tasks before writing them into the schedule. This is executive function scaffolding at its most direct — the planner does the sorting that the ADHD brain struggles to do internally.
 
@@ -209,7 +206,6 @@ Build quality is excellent. At 100 GSM, the paper is slightly thinner than the P
 
 **Price:** ~$30 · **Rating:** 8.7/10
 
-<!-- NANO_BANANA_PROMPT: An overhead view of an open weekly planner showing a unique funnel-shaped layout system, with colorful categories at the top funneling down to daily task columns below, desk accessories and a potted succulent nearby, clean minimalist desk setup, bright even lighting, editorial product photography -->
 
 The Planner Pad uses a patented "funnel" system that works like a built-in brain dump. The top third of each weekly spread is divided into category columns (work, personal, health, etc.) where you dump everything on your mind. The middle section is a prioritized action list where you pull the most important items from the dump. The bottom section maps those actions to specific days.
 
@@ -274,7 +270,6 @@ The trade-off is the price: at ~$40, the Ink+Volt is the most expensive option o
 
 ADHD doesn't just impair daily task management — it impairs long-term goal pursuit. The Passion Planner addresses this with a "Passion Roadmap" exercise at the front of each volume that walks users through defining 3-month, 1-year, 3-year, and lifetime goals across personal and professional domains. These goals then cascade into monthly focus areas and weekly action items.
 
-<!-- NANO_BANANA_PROMPT: A person sitting cross-legged on a couch with an open planner on their lap, writing in a goal-mapping section with colorful arrows and circles, cozy living room setting with warm lamp light, blanket draped over couch arm, inviting and calm atmosphere, lifestyle photography -->
 
 For ADHD adults, this top-down structure provides the "why" that drives daily motivation. ADHD brains are interest-driven, not importance-driven. When a daily task connects to a personally meaningful long-term goal, the interest circuits activate. The Passion Planner makes those connections explicit rather than leaving them implicit.
 
@@ -343,13 +338,12 @@ Physical planners activate different cognitive pathways than digital tools. A 20
 
 However, digital tools win on reminders and external cueing. The ADHD brain doesn't reliably generate its own "it's time to check your planner" signals. Apps like Todoist, Sunsama, and Structured can push notifications that serve as external initiation cues — something a physical planner cannot do.
 
-<!-- NANO_BANANA_PROMPT: A split-image composition showing a physical planner open on the left side and a smartphone with a task management app on the right side, both on the same desk, connected by a subtle visual bridge, clean modern desk, neutral background, balanced studio lighting, comparison infographic style -->
 
 The optimal ADHD system uses a **physical planner for daily planning rituals** (morning intention-setting, end-of-day reflection) and a **digital tool for time-sensitive reminders and recurring tasks**. The planner is your strategic brain; the app is your alarm clock.
 
 Our testers who used this hybrid approach reported 40% higher task completion rates than those who used only a planner or only an app.
 
-If you're interested in the digital side, check out our guide to [the best ADHD productivity apps for adults](/best-adhd-productivity-apps-adults) for detailed app reviews and setup strategies.
+If you're interested in the digital side, check out our guide to the best ADHD productivity apps for adults for detailed app reviews and setup strategies.
 
 ---
 
@@ -407,7 +401,7 @@ You will miss days. Possibly weeks. This is normal, expected, and not a moral fa
 
 Planning sessions are more likely to happen — and produce better results — when done alongside another person. This can be a partner, friend, coworker, or virtual body doubling session. The social presence provides external accountability that compensates for ADHD's internal motivation deficit.
 
-For more strategies on building consistent productivity systems, read our guide on [building ADHD-friendly daily routines that stick](/adhd-daily-routine-guide).
+For more strategies on building consistent productivity systems, read our guide on building ADHD-friendly daily routines that stick.
 
 ---
 
@@ -535,7 +529,7 @@ A: The six most important features for an ADHD planner are: (1) undated pages to
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This article was produced through an eight-week structured testing process with 12 diagnosed ADHD adults across three ADHD presentation types. All testers carried formal diagnoses from licensed clinicians. Task completion data was self-reported with daily photo verification. Time estimation accuracy was measured using pre- and post-testing surveys with standardized tasks.
 

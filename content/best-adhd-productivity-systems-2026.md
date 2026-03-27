@@ -24,7 +24,7 @@ article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"
 - [System 1: Time Blocking With Buffer Zones](#system-1-time-blocking-with-buffer-zones)
 - [System 2: The ADHD-Modified Bullet Journal](#system-2-the-adhd-modified-bullet-journal)
 - [System 3: Kanban for ADHD (Visual Task Flow)](#system-3-kanban-for-adhd-visual-task-flow)
-- [System 4: Body Doubling + Pomodoro Hybrid](#system-4-body-doubling--pomodoro-hybrid)
+- [System 4: Body Doubling + Pomodoro Hybrid](#system-4-body-doubling-pomodoro-hybrid)
 - [System 5: The Two-List System](#system-5-the-two-list-system)
 - [System 6: Eat the Frog (Modified)](#system-6-eat-the-frog-modified)
 - [Comparison Table: ADHD Productivity Systems at a Glance](#comparison-table-adhd-productivity-systems-at-a-glance)
@@ -32,7 +32,7 @@ article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"
 - [Combining Systems: What Works Together](#combining-systems-what-works-together)
 - [Common Mistakes When Adopting a New System](#common-mistakes-when-adopting-a-new-system)
 - [FAQ](#faq)
-- [Sources & Methodology](#sources--methodology)
+- [Sources & Methodology](#sources-and-methodology)
 
 ---
 
@@ -381,7 +381,7 @@ Time blocking assigns specific tasks to specific time slots in your calendar, ma
 *Dopamine-based reward systems hack the ADHD brain's motivational architecture — small rewards, immediately.*
 
 
-## Sources & Methodology
+## Sources and Methodology
 
 This article draws on peer-reviewed research, clinical guidelines, and my own coaching data collected from 2012 to 2026.
 

@@ -21,21 +21,21 @@ article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"
 ---
 
 ## Table of Contents
-- [What Is Time Blocking (And Why It Works for ADHD)](#what-is-time-blocking)
-- [Why Traditional Scheduling Fails the ADHD Brain](#why-traditional-scheduling-fails)
-- [The Science Behind Time Blocking and ADHD](#the-science-behind-time-blocking)
-- [How to Start Time Blocking With ADHD: Step by Step](#how-to-start-time-blocking)
-- [ADHD-Friendly Time Blocking Templates](#adhd-friendly-templates)
-- [Handling Common ADHD Roadblocks](#handling-common-roadblocks)
-- [Best Tools and Apps for ADHD Time Blocking](#best-tools-and-apps)
-- [Combining Time Blocking With Other ADHD Strategies](#combining-with-other-strategies)
-- [Real-World Time Blocking Mistakes to Avoid](#mistakes-to-avoid)
+- [What Is Time Blocking (And Why It Works for ADHD)](#faq-time-blocking-for-adhd)
+- [Why Traditional Scheduling Fails the ADHD Brain](#why-traditional-scheduling-fails-the-adhd-brain)
+- [The Science Behind Time Blocking and ADHD](#the-science-behind-time-blocking-and-adhd)
+- [How to Start Time Blocking With ADHD: Step by Step](#how-to-start-time-blocking-with-adhd-step-by-step)
+- [ADHD-Friendly Time Blocking Templates](#adhd-friendly-time-blocking-templates)
+- [Handling Common ADHD Roadblocks](#handling-common-adhd-roadblocks)
+- [Best Tools and Apps for ADHD Time Blocking](#best-tools-and-apps-for-adhd-time-blocking)
+- [Combining Time Blocking With Other ADHD Strategies](#combining-time-blocking-with-other-adhd-strategies)
+- [Real-World Time Blocking Mistakes to Avoid](#real-world-time-blocking-mistakes-to-avoid)
 - [FAQ: Time Blocking for ADHD](#faq)
 - [Sources and Methodology](#sources-and-methodology)
 
 ---
 
-## What Is Time Blocking (And Why It Works for ADHD) {#what-is-time-blocking}
+## What Is Time Blocking (And Why It Works for ADHD)
 
 ![A clean, modern illustration of a daily planner divided into colorful time blocks with a brain icon](/images/time-blocking-for-adhd-1.jpg)
 
@@ -53,7 +53,7 @@ The critical difference is that ADHD-adapted time blocking looks different from 
 
 ---
 
-## Why Traditional Scheduling Fails the ADHD Brain {#why-traditional-scheduling-fails}
+## Why Traditional Scheduling Fails the ADHD Brain
 
 ![Split-screen illustration showing a rigid schedule with red X marks versus a flexible time block layout with checkmarks](/images/time-blocking-for-adhd-2.jpg)
 
@@ -79,7 +79,7 @@ ADHD brains crave novelty. A rigid, identical schedule that repeats every day wi
 
 ---
 
-## The Science Behind Time Blocking and ADHD {#the-science-behind-time-blocking}
+## The Science Behind Time Blocking and ADHD
 
 ![Scientific illustration of a brain with highlighted prefrontal cortex surrounded by clock icons and task cards](/images/time-blocking-for-adhd-3.jpg)
 
@@ -93,7 +93,7 @@ The dopamine angle matters too. Starting a task is one of the hardest parts of A
 
 ---
 
-## How to Start Time Blocking With ADHD: Step by Step {#how-to-start-time-blocking}
+## How to Start Time Blocking With ADHD: Step by Step
 
 ![Step-by-step visual guide showing five numbered steps with icons for brain, clock, calendar, pencil, and checkmark](/images/time-blocking-for-adhd-4.jpg)
 
@@ -150,7 +150,7 @@ This weekly review is not about grading yourself. It is about calibrating the sy
 
 ---
 
-## ADHD-Friendly Time Blocking Templates {#adhd-friendly-templates}
+## ADHD-Friendly Time Blocking Templates
 
 Here are two templates designed specifically for ADHD brains. Use them as starting points and customize ruthlessly.
 
@@ -193,7 +193,7 @@ For more strategies on managing your energy throughout the day, see our guide on
 
 ---
 
-## Handling Common ADHD Roadblocks {#handling-common-roadblocks}
+## Handling Common ADHD Roadblocks
 
 ![Illustration of a winding road with labeled obstacles and a figure confidently navigating around them](/images/time-blocking-for-adhd-5.jpg)
 
@@ -239,7 +239,7 @@ If your time blocking system feels like a cage, it is too tight. Loosen it:
 
 ---
 
-## Best Tools and Apps for ADHD Time Blocking {#best-tools-and-apps}
+## Best Tools and Apps for ADHD Time Blocking
 
 ![Flat-lay illustration of productivity tools including a phone with calendar app, planner, visual timer, and sticky notes on a desk](/images/time-blocking-for-adhd-6.jpg)
 
@@ -273,7 +273,7 @@ The right tool makes time blocking significantly easier. Here are the best optio
 <p>The gold standard for making time visible. This analog-style timer uses a disappearing colored disk to show remaining time at a glance — essential for combating ADHD time blindness. Available in 3", 8", and 12" sizes.</p>
 <p><strong>Best for:</strong> Visual time awareness during focus blocks</p>
 <p><strong>Price:</strong> $30-$50</p>
-<p><a href="https://www.amazon.com/s?k=Time+Timer+Visual+Timer&tag=theforge05-20">View on Amazon (US)</a> | <a href="https://www.amazon.com.au/s?k=Time+Timer+Visual+Timer&tag=doublefury-22">View on Amazon (AU)</a></p>
+<p><a href="https://www.amazon.com/s?k=Time+Timer+Visual+Timer&tag=theforge05-20">View on Amazon (US)</a> | <a href="https://www.amazon.com.au/s?k=Time+Timer+Visual+Timer&tag=doublefury-22&tag=theforge05-20">View on Amazon (AU)</a></p>
 </div>
 
 <div class="product-card">
@@ -305,7 +305,7 @@ The right tool makes time blocking significantly easier. Here are the best optio
 <p>If digital tools overwhelm you, Panda Planner provides a structured paper-based system with daily, weekly, and monthly layouts. The tactile experience of writing time blocks by hand can improve memory and commitment for some ADHD brains.</p>
 <p><strong>Best for:</strong> People who focus better with pen and paper</p>
 <p><strong>Price:</strong> $25-$35</p>
-<p><a href="https://www.amazon.com/s?k=Panda+Planner&tag=theforge05-20">View on Amazon (US)</a> | <a href="https://www.amazon.com.au/s?k=Panda+Planner&tag=doublefury-22">View on Amazon (AU)</a></p>
+<p><a href="https://www.amazon.com/s?k=Panda+Planner&tag=theforge05-20">View on Amazon (US)</a> | <a href="https://www.amazon.com.au/s?k=Panda+Planner&tag=doublefury-22&tag=theforge05-20">View on Amazon (AU)</a></p>
 </div>
 
 <div class="product-card">
@@ -322,7 +322,7 @@ The right tool makes time blocking significantly easier. Here are the best optio
 
 ---
 
-## Combining Time Blocking With Other ADHD Strategies {#combining-with-other-strategies}
+## Combining Time Blocking With Other ADHD Strategies
 
 Time blocking works best as a framework that holds other ADHD strategies together. Here are the most effective combinations.
 
@@ -346,7 +346,7 @@ Keep a "quick capture" list beside your time blocks. When a small task pops into
 
 ---
 
-## Real-World Time Blocking Mistakes to Avoid {#mistakes-to-avoid}
+## Real-World Time Blocking Mistakes to Avoid
 
 After working with countless ADHD productivity strategies, these are the patterns that sabotage time blocking most frequently.
 
@@ -367,7 +367,7 @@ A 60% completion rate on your time blocks is a success. Seriously. If you are co
 
 ---
 
-## FAQ: Time Blocking for ADHD {#faq}
+## FAQ: Time Blocking for ADHD
 
 **Does time blocking work for people with ADHD?**
 
@@ -399,7 +399,7 @@ Hyperfocus can disrupt time blocking schedules. Build in a "hyperfocus protocol"
 
 ![Person reviewing completed time blocks at end of day](/images/time-blocking-for-adhd-8.jpg)
 
-## Sources and Methodology {#sources-and-methodology}
+## Sources and Methodology
 
 This guide draws on established research and clinical expertise in ADHD and executive function:
 

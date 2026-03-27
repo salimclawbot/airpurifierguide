@@ -24,7 +24,7 @@ article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"
 - [Strategy 2: The 1.5x Rule for Time Estimation](#strategy-2-the-15x-rule-for-time-estimation)
 - [Strategy 3: Transition Alarms (Not Deadline Alarms)](#strategy-3-transition-alarms-not-deadline-alarms)
 - [Strategy 4: Time Blocking With Buffer Zones](#strategy-4-time-blocking-with-buffer-zones)
-- [Strategy 5: The Now / Not Now Framework](#strategy-5-the-now--not-now-framework)
+- [Strategy 5: The Now / Not Now Framework](#strategy-5-the-now-not-now-framework)
 - [Strategy 6: Visual Timers and Time Awareness Tools](#strategy-6-visual-timers-and-time-awareness-tools)
 - [Strategy 7: Routine Anchoring](#strategy-7-routine-anchoring)
 - [Strategy 8: Artificial Deadlines With Stakes](#strategy-8-artificial-deadlines-with-stakes)
@@ -32,7 +32,7 @@ article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"
 - [Building Your Personal Time Management Stack](#building-your-personal-time-management-stack)
 - [The Role of Medication in Time Management](#the-role-of-medication-in-time-management)
 - [FAQ](#faq)
-- [Sources & Methodology](#sources--methodology)
+- [Sources & Methodology](#sources-and-methodology)
 
 ---
 
@@ -432,7 +432,7 @@ The Pomodoro Technique can be excellent for ADHD because it makes time visible a
 *5-item morning routine maximum — ADHD brains fail complex morning systems every time.*
 
 
-## Sources & Methodology
+## Sources and Methodology
 
 This article is based on peer-reviewed neuroscience and clinical psychology research, supplemented by clinical observations from my own coaching practice.
 

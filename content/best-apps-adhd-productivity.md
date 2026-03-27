@@ -31,23 +31,23 @@ article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"
 
 ## Table of Contents
 
-- [Why ADHD Brains Need Different Productivity Apps](#why-adhd-brains-need-different-apps)
-- [How We Evaluated These Apps](#how-we-evaluated)
-- [The 5 Best ADHD Productivity Apps Compared](#best-apps-compared)
-- [Todoist: Best for Task Management](#todoist-best-task-management)
-- [Notion: Best for Flexible Organization](#notion-best-flexible-organization)
-- [Forest: Best for Focus Sessions](#forest-best-focus-sessions)
-- [RescueTime: Best for Time Awareness](#rescuetime-best-time-awareness)
-- [Structured: Best for Visual Daily Planning](#structured-best-visual-planning)
-- [Bonus Picks: 3 More Apps Worth Trying](#bonus-picks)
-- [How to Build Your ADHD App Stack](#build-your-app-stack)
-- [Common Mistakes When Choosing ADHD Apps](#common-mistakes)
-- [FAQ: Best Apps for ADHD Productivity](#faq)
+- [Why ADHD Brains Need Different Productivity Apps](#why-adhd-brains-need-different-productivity-apps)
+- [How We Evaluated These Apps](#how-we-evaluated-these-apps)
+- [The 5 Best ADHD Productivity Apps Compared](#the-5-best-adhd-productivity-apps-compared)
+- [Todoist: Best for Task Management](#todoist-best-for-task-management)
+- [Notion: Best for Flexible Organization](#notion-best-for-flexible-organization)
+- [Forest: Best for Focus Sessions](#forest-best-for-focus-sessions)
+- [RescueTime: Best for Time Awareness](#rescuetime-best-for-time-awareness)
+- [Structured: Best for Visual Daily Planning](#structured-best-for-visual-daily-planning)
+- [Bonus Picks: 3 More Apps Worth Trying](#bonus-picks-3-more-apps-worth-trying)
+- [How to Build Your ADHD App Stack](#how-to-build-your-adhd-app-stack)
+- [Common Mistakes When Choosing ADHD Apps](#common-mistakes-when-choosing-adhd-apps)
+- [FAQ: Best Apps for ADHD Productivity](#faq-best-apps-for-adhd-productivity)
 - [Sources and Methodology](#sources-and-methodology)
 
 ---
 
-## Why ADHD Brains Need Different Productivity Apps {#why-adhd-brains-need-different-apps}
+## Why ADHD Brains Need Different Productivity Apps
 
 ![Illustration of a brain with scattered colorful app icons orbiting around it, representing the ADHD search for the right productivity tool](/images/articles/best-apps-adhd-productivity-hero.png)
 
@@ -75,7 +75,7 @@ These criteria shaped every evaluation in this guide. An app could be beautifull
 
 ---
 
-## How We Evaluated These Apps {#how-we-evaluated}
+## How We Evaluated These Apps
 
 ![A checklist infographic showing the five evaluation criteria with icons for friction, visual feedback, flexibility, defaults, and re-engagement](/images/articles/best-apps-adhd-evaluation-criteria.png)
 
@@ -91,7 +91,7 @@ We also consulted three ADHD coaches and two clinical psychologists specializing
 
 ---
 
-## The 5 Best ADHD Productivity Apps Compared {#best-apps-compared}
+## The 5 Best ADHD Productivity Apps Compared
 
 ![Side-by-side comparison grid showing the five recommended apps with their logos, key features, and star ratings](/images/articles/best-apps-adhd-comparison-grid.png)
 
@@ -112,7 +112,7 @@ Before diving into individual reviews, one critical point: no single app will so
 
 ---
 
-## Todoist: Best for Task Management {#todoist-best-task-management}
+## Todoist: Best for Task Management
 
 ![Todoist app interface showing a clean task list with color-coded projects and priority flags on a smartphone screen](/images/articles/best-apps-adhd-todoist-interface.png)
 
@@ -149,7 +149,7 @@ Todoist's free tier limits you to five active projects, which may feel constrain
 
 ---
 
-## Notion: Best for Flexible Organization {#notion-best-flexible-organization}
+## Notion: Best for Flexible Organization
 
 ![Notion workspace showing an ADHD dashboard with task database, daily planner, and habit tracker views](/images/articles/best-apps-adhd-notion-workspace.png)
 
@@ -188,7 +188,7 @@ Notion also lacks built-in reminders and push notifications on par with dedicate
 
 ---
 
-## Forest: Best for Focus Sessions {#forest-best-focus-sessions}
+## Forest: Best for Focus Sessions
 
 ![Forest app showing a growing virtual tree during a 25-minute focus session with a lush forest of completed sessions in the background](/images/articles/best-apps-adhd-forest-focus.png)
 
@@ -229,7 +229,7 @@ Forest is a focus tool, not a task manager. It helps you stay focused but does n
 
 ---
 
-## RescueTime: Best for Time Awareness {#rescuetime-best-time-awareness}
+## RescueTime: Best for Time Awareness
 
 ![RescueTime dashboard showing a daily breakdown of productive versus unproductive screen time with color-coded categories](/images/articles/best-apps-adhd-rescuetime-dashboard.png)
 
@@ -272,7 +272,7 @@ Privacy-conscious users should note that RescueTime tracks all device activity. 
 
 ---
 
-## Structured: Best for Visual Daily Planning {#structured-best-visual-planning}
+## Structured: Best for Visual Daily Planning
 
 ![Structured app displaying a colorful visual timeline of a day with task blocks, breaks, and buffer periods on an iPhone screen](/images/articles/best-apps-adhd-structured-timeline.png)
 
@@ -315,7 +315,7 @@ The app also works best as a daily planner rather than a long-term project manag
 
 ---
 
-## Bonus Picks: 3 More Apps Worth Trying {#bonus-picks}
+## Bonus Picks: 3 More Apps Worth Trying
 
 ![Three app icons displayed on a colorful gradient background representing additional ADHD productivity tools](/images/articles/best-apps-adhd-bonus-picks.png)
 
@@ -344,7 +344,7 @@ Habitica turns your to-do list into an RPG game. Complete tasks to earn experien
 
 ---
 
-## How to Build Your ADHD App Stack {#build-your-app-stack}
+## How to Build Your ADHD App Stack
 
 <div class="video-container">
   <video autoplay muted loop playsinline width="100%" style="border-radius:8px;margin:2rem 0">
@@ -384,7 +384,7 @@ Only add a new app when you have identified a specific, recurring problem that y
 
 ---
 
-## Common Mistakes When Choosing ADHD Apps {#common-mistakes}
+## Common Mistakes When Choosing ADHD Apps
 
 ### Mistake 1: Choosing Based on Features Instead of Friction
 
@@ -412,7 +412,7 @@ Some ADHD brains work better with physical tools. A paper planner, a whiteboard,
 
 ---
 
-## FAQ: Best Apps for ADHD Productivity {#faq}
+## FAQ: Best Apps for ADHD Productivity
 
 **What is the best productivity app for ADHD in 2026?**
 
@@ -440,7 +440,7 @@ Notion can be excellent for ADHD if you keep your setup simple. Its flexibility 
 
 ---
 
-## Sources and Methodology {#sources-and-methodology}
+## Sources and Methodology
 
 This guide draws on clinical research, expert consultation, and structured user testing:
 

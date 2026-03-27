@@ -22,18 +22,18 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 ---
 
 ## Table of Contents
-- [The Neuroscience: Why ADHD Procrastination Is Different](#neuroscience)
-- [Interest-Based Motivation: The ADHD Activation System](#interest-based-motivation)
-- [7 Evidence-Based Strategies to Beat ADHD Procrastination](#7-strategies)
-- [What Doesn't Work for ADHD Procrastination](#what-doesnt-work)
-- [ADHD Procrastination at Work vs Personal Tasks](#work-vs-personal)
-- [Tools and Systems That Help](#tools-and-systems)
+- [The Neuroscience: Why ADHD Procrastination Is Different](#the-neuroscience-why-adhd-procrastination-is-different)
+- [Interest-Based Motivation: The ADHD Activation System](#interest-based-motivation-the-adhd-activation-system)
+- [7 Evidence-Based Strategies to Beat ADHD Procrastination](#strategy-1-body-doubling)
+- [What Doesn't Work for ADHD Procrastination](#what-doesnt-work-for-adhd-procrastination)
+- [ADHD Procrastination at Work vs Personal Tasks](#adhd-procrastination-at-work-vs-personal-tasks)
+- [Tools and Systems That Help](#tools-and-systems-that-help)
 - [Frequently Asked Questions](#frequently-asked-questions)
-- [Sources & Methodology](#sources-methodology)
+- [Sources & Methodology](#sources-and-methodology)
 
 ---
 
-## The Neuroscience: Why ADHD Procrastination Is Different {#neuroscience}
+## The Neuroscience: Why ADHD Procrastination Is Different
 
 ![ADHD brain executive function diagram showing prefrontal cortex dopamine regulation and task initiation difficulty](/images/articles/adhd-procrastination-brain-diagram.jpg)
 
@@ -68,7 +68,7 @@ Effective ADHD procrastination strategies bypass the broken internal regulation 
 
 ---
 
-## Interest-Based Motivation: The ADHD Activation System {#interest-based-motivation}
+## Interest-Based Motivation: The ADHD Activation System
 
 Dr. William Dodson, a leading ADHD researcher, describes the ADHD motivational system as **interest-based** rather than **importance-based**. The ADHD brain activates for tasks based on:
 
@@ -96,7 +96,7 @@ The practical implication: instead of trying to convince yourself that important
 
 ---
 
-## 7 Evidence-Based Strategies to Beat ADHD Procrastination {#7-strategies}
+## 7 Evidence-Based Strategies to Beat ADHD Procrastination
 
 <style>
 .product-cards { display: grid; grid-template-columns: 1fr; gap: 1.5rem; margin: 2rem 0; }
@@ -230,7 +230,7 @@ ADHD brains re-read emails dozens of times without acting because each re-read i
 
 ---
 
-## What Doesn't Work for ADHD Procrastination {#what-doesnt-work}
+## What Doesn't Work for ADHD Procrastination
 
 Understanding what fails prevents wasted effort and self-blame:
 
@@ -247,7 +247,7 @@ For deeper ADHD productivity systems, see our [best ADHD productivity systems gu
 
 ---
 
-## ADHD Procrastination at Work vs Personal Tasks {#work-vs-personal}
+## ADHD Procrastination at Work vs Personal Tasks
 
 ADHD procrastination patterns differ between contexts:
 
@@ -259,7 +259,7 @@ ADHD procrastination patterns differ between contexts:
 
 ---
 
-## Tools and Systems That Help {#tools-and-systems}
+## Tools and Systems That Help
 
 ### Digital Tools
 - **Focusmate**: Virtual body doubling platform — schedule 50-min sessions with strangers; high accountability
@@ -275,7 +275,7 @@ ADHD procrastination patterns differ between contexts:
 
 ---
 
-## Frequently Asked Questions {#frequently-asked-questions}
+## Frequently Asked Questions
 
 **Why do people with ADHD procrastinate so much?**
 
@@ -299,7 +299,7 @@ Yes — one of the most consistently recommended and effective strategies. Worki
 
 ---
 
-## Sources & Methodology {#sources-methodology}
+## Sources and Methodology
 
 **Clinical References:**
 - Dodson WW: "Interest-based nervous system in ADHD." ADDitude Magazine 2016
