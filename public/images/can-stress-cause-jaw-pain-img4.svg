@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" width="1000" height="500">
+  <rect width="1000" height="500" fill="#f8fafc" rx="16"/>
+  <text x="500" y="45" text-anchor="middle" fill="#0f766e" font-family="system-ui,sans-serif" font-size="24" font-weight="800">Products for Stress-Related Jaw Pain Relief</text>
+  <!-- Product 1 -->
+  <rect x="40" y="75" width="180" height="200" rx="12" fill="#fff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <rect x="40" y="75" width="180" height="6" rx="3" fill="#0f766e"/>
+  <text x="130" y="115" text-anchor="middle" fill="#0f766e" font-family="system-ui,sans-serif" font-size="36">&#x1F9B7;</text>
+  <text x="130" y="150" text-anchor="middle" fill="#1e293b" font-family="system-ui,sans-serif" font-size="14" font-weight="700">Night Guards</text>
+  <text x="130" y="172" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">Prevents grinding</text>
+  <text x="130" y="192" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">during sleep</text>
+  <rect x="65" y="215" width="130" height="28" rx="6" fill="#0f766e"/>
+  <text x="130" y="234" text-anchor="middle" fill="#fff" font-family="system-ui,sans-serif" font-size="11" font-weight="600">ESSENTIAL</text>
+  <!-- Product 2 -->
+  <rect x="240" y="75" width="180" height="200" rx="12" fill="#fff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <rect x="240" y="75" width="180" height="6" rx="3" fill="#7c3aed"/>
+  <text x="330" y="115" text-anchor="middle" fill="#7c3aed" font-family="system-ui,sans-serif" font-size="36">&#x1F4AA;</text>
+  <text x="330" y="150" text-anchor="middle" fill="#1e293b" font-family="system-ui,sans-serif" font-size="14" font-weight="700">Jaw Massagers</text>
+  <text x="330" y="172" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">Releases muscle</text>
+  <text x="330" y="192" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">tension + trigger pts</text>
+  <rect x="265" y="215" width="130" height="28" rx="6" fill="#7c3aed"/>
+  <text x="330" y="234" text-anchor="middle" fill="#fff" font-family="system-ui,sans-serif" font-size="11" font-weight="600">RECOMMENDED</text>
+  <!-- Product 3 -->
+  <rect x="440" y="75" width="180" height="200" rx="12" fill="#fff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <rect x="440" y="75" width="180" height="6" rx="3" fill="#0ea5e9"/>
+  <text x="530" y="115" text-anchor="middle" fill="#0ea5e9" font-family="system-ui,sans-serif" font-size="36">&#x1F9CA;</text>
+  <text x="530" y="150" text-anchor="middle" fill="#1e293b" font-family="system-ui,sans-serif" font-size="14" font-weight="700">Hot/Cold Packs</text>
+  <text x="530" y="172" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">Soothes inflammation</text>
+  <text x="530" y="192" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">+ relaxes muscles</text>
+  <rect x="465" y="215" width="130" height="28" rx="6" fill="#0ea5e9"/>
+  <text x="530" y="234" text-anchor="middle" fill="#fff" font-family="system-ui,sans-serif" font-size="11" font-weight="600">ESSENTIAL</text>
+  <!-- Product 4 -->
+  <rect x="640" y="75" width="180" height="200" rx="12" fill="#fff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <rect x="640" y="75" width="180" height="6" rx="3" fill="#f59e0b"/>
+  <text x="730" y="115" text-anchor="middle" fill="#f59e0b" font-family="system-ui,sans-serif" font-size="36">&#x1F9D8;</text>
+  <text x="730" y="150" text-anchor="middle" fill="#1e293b" font-family="system-ui,sans-serif" font-size="14" font-weight="700">Stress Relief</text>
+  <text x="730" y="172" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">Biofeedback, acupr.</text>
+  <text x="730" y="192" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">mats, massage balls</text>
+  <rect x="665" y="215" width="130" height="28" rx="6" fill="#f59e0b"/>
+  <text x="730" y="234" text-anchor="middle" fill="#fff" font-family="system-ui,sans-serif" font-size="11" font-weight="600">HELPFUL</text>
+  <!-- Product 5 -->
+  <rect x="340" y="300" width="180" height="200" rx="12" fill="#fff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <rect x="340" y="300" width="180" height="6" rx="3" fill="#ec4899"/>
+  <text x="430" y="340" text-anchor="middle" fill="#ec4899" font-family="system-ui,sans-serif" font-size="36">&#x1F6CF;</text>
+  <text x="430" y="375" text-anchor="middle" fill="#1e293b" font-family="system-ui,sans-serif" font-size="14" font-weight="700">TMJ Pillows</text>
+  <text x="430" y="397" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">Supports jaw alignment</text>
+  <text x="430" y="417" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">during sleep</text>
+  <rect x="365" y="440" width="130" height="28" rx="6" fill="#ec4899"/>
+  <text x="430" y="459" text-anchor="middle" fill="#fff" font-family="system-ui,sans-serif" font-size="11" font-weight="600">RECOMMENDED</text>
+</svg>

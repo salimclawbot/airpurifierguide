@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 550" width="1000" height="550">
+  <rect width="1000" height="550" fill="#f8fafc" rx="16"/>
+  <text x="500" y="45" text-anchor="middle" fill="#0f766e" font-family="system-ui,sans-serif" font-size="24" font-weight="800">Stress Reduction Techniques for TMJ Relief</text>
+  <!-- Technique 1 -->
+  <rect x="40" y="75" width="440" height="200" rx="14" fill="#ffffff" stroke="#0f766e" stroke-width="2"/>
+  <rect x="40" y="75" width="440" height="40" rx="14" fill="#0f766e"/>
+  <text x="260" y="102" text-anchor="middle" fill="#ffffff" font-family="system-ui,sans-serif" font-size="16" font-weight="700">Progressive Muscle Relaxation (PMR)</text>
+  <text x="260" y="140" text-anchor="middle" fill="#475569" font-family="system-ui,sans-serif" font-size="13">1. Tense jaw muscles for 5 seconds</text>
+  <text x="260" y="162" text-anchor="middle" fill="#475569" font-family="system-ui,sans-serif" font-size="13">2. Release and relax for 10 seconds</text>
+  <text x="260" y="184" text-anchor="middle" fill="#475569" font-family="system-ui,sans-serif" font-size="13">3. Notice the difference in sensation</text>
+  <text x="260" y="206" text-anchor="middle" fill="#475569" font-family="system-ui,sans-serif" font-size="13">4. Repeat for neck and shoulders</text>
+  <rect x="140" y="225" width="240" height="30" rx="6" fill="#f0fdf4"/>
+  <text x="260" y="246" text-anchor="middle" fill="#16a34a" font-family="system-ui,sans-serif" font-size="12" font-weight="600">Effectiveness: 65% pain reduction (NIH)</text>
+  <!-- Technique 2 -->
+  <rect x="520" y="75" width="440" height="200" rx="14" fill="#ffffff" stroke="#7c3aed" stroke-width="2"/>
+  <rect x="520" y="75" width="440" height="40" rx="14" fill="#7c3aed"/>
+  <text x="740" y="102" text-anchor="middle" fill="#ffffff" font-family="system-ui,sans-serif" font-size="16" font-weight="700">Diaphragmatic Breathing</text>
+  <text x="740" y="140" text-anchor="middle" fill="#475569" font-family="system-ui,sans-serif" font-size="13">1. Breathe in slowly through nose (4 sec)</text>
+  <text x="740" y="162" text-anchor="middle" fill="#475569" font-family="system-ui,sans-serif" font-size="13">2. Hold gently (4 sec)</text>
+  <text x="740" y="184" text-anchor="middle" fill="#475569" font-family="system-ui,sans-serif" font-size="13">3. Exhale through mouth (6 sec)</text>
+  <text x="740" y="206" text-anchor="middle" fill="#475569" font-family="system-ui,sans-serif" font-size="13">4. Repeat 10 cycles, 3x daily</text>
+  <rect x="620" y="225" width="240" height="30" rx="6" fill="#f0fdf4"/>
+  <text x="740" y="246" text-anchor="middle" fill="#16a34a" font-family="system-ui,sans-serif" font-size="12" font-weight="600">Reduces cortisol by 20% (APA)</text>
+  <!-- Technique 3 -->
+  <rect x="40" y="300" width="440" height="200" rx="14" fill="#ffffff" stroke="#f59e0b" stroke-width="2"/>
+  <rect x="40" y="300" width="440" height="40" rx="14" fill="#f59e0b"/>
+  <text x="260" y="327" text-anchor="middle" fill="#ffffff" font-family="system-ui,sans-serif" font-size="16" font-weight="700">Biofeedback Therapy</text>
+  <text x="260" y="365" text-anchor="middle" fill="#475569" font-family="system-ui,sans-serif" font-size="13">EMG sensors monitor jaw muscle activity</text>
+  <text x="260" y="387" text-anchor="middle" fill="#475569" font-family="system-ui,sans-serif" font-size="13">in real time, training awareness of</text>
+  <text x="260" y="409" text-anchor="middle" fill="#475569" font-family="system-ui,sans-serif" font-size="13">unconscious clenching patterns.</text>
+  <rect x="100" y="430" width="320" height="30" rx="6" fill="#f0fdf4"/>
+  <text x="260" y="451" text-anchor="middle" fill="#16a34a" font-family="system-ui,sans-serif" font-size="12" font-weight="600">80% of patients show improvement (AAPB)</text>
+  <!-- Technique 4 -->
+  <rect x="520" y="300" width="440" height="200" rx="14" fill="#ffffff" stroke="#0ea5e9" stroke-width="2"/>
+  <rect x="520" y="300" width="440" height="40" rx="14" fill="#0ea5e9"/>
+  <text x="740" y="327" text-anchor="middle" fill="#ffffff" font-family="system-ui,sans-serif" font-size="16" font-weight="700">Cognitive Behavioral Therapy (CBT)</text>
+  <text x="740" y="365" text-anchor="middle" fill="#475569" font-family="system-ui,sans-serif" font-size="13">Restructure thought patterns that</text>
+  <text x="740" y="387" text-anchor="middle" fill="#475569" font-family="system-ui,sans-serif" font-size="13">trigger stress-related jaw clenching.</text>
+  <text x="740" y="409" text-anchor="middle" fill="#475569" font-family="system-ui,sans-serif" font-size="13">Address anxiety, catastrophizing.</text>
+  <rect x="580" y="430" width="320" height="30" rx="6" fill="#f0fdf4"/>
+  <text x="740" y="451" text-anchor="middle" fill="#16a34a" font-family="system-ui,sans-serif" font-size="12" font-weight="600">50% reduction in TMJ symptoms (Cochrane)</text>
+</svg>

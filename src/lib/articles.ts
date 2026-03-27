@@ -4,6 +4,7 @@ import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
 import remarkGfm from "remark-gfm";
+import { siteConfig } from "@/lib/site-config";
 
 export interface Article {
   slug: string;
@@ -14,13 +15,17 @@ export interface Article {
   htmlContent: string;
   date: string;
   dateModified: string;
+  publishedAt: string;
+  updatedAt: string;
   category: string;
   author: string;
+  image: string;
   faqSchema?: Record<string, unknown> | null;
   articleSchema?: Record<string, unknown> | null;
 }
 
 const CONTENT_DIR = path.join(process.cwd(), "content");
+const PUBLIC_DIR = path.join(process.cwd(), "public");
 
 function toSlug(text: string): string {
   return text.toLowerCase().replace(/[^a-z0-9\s-]/g, "").replace(/\s+/g, "-").replace(/-+/g, "-").trim();
@@ -29,7 +34,7 @@ function toSlug(text: string): string {
 function parseJsonField(value: unknown): Record<string, unknown> | null {
   if (!value || typeof value !== "string") return null;
   try {
-    const normalized = value.replaceAll("https://airpurifierguide.com", "https://airpurifierreport.com");
+    const normalized = value.replaceAll("https://jawpainguide.com", siteConfig.url);
     return JSON.parse(normalized);
   } catch {
     return null;
@@ -38,10 +43,18 @@ function parseJsonField(value: unknown): Record<string, unknown> | null {
 
 function processContent(raw: string): string {
   let processed = raw;
+  // Strip heading ID syntax {#...}
+  processed = processed.replace(/\{#[^}]+\}/g, "");
   processed = processed.trimStart().replace(/^#\s+.*\n+/, "");
   processed = processed.replace(/\[INTERNAL:\s*([\w-]+)\]\((.*?)\)/g, "[$2](/$1)");
   processed = processed.replace(/\[INTERNAL:\s*([\w-]+)\]/g, "[$1](/$1)");
   return processed;
+}
+
+function resolveImagePath(image: string | undefined): string {
+  if (!image) return siteConfig.ogImage;
+  const normalized = image.startsWith("/") ? image.slice(1) : image;
+  return fs.existsSync(path.join(PUBLIC_DIR, normalized)) ? image : siteConfig.ogImage;
 }
 
 export async function getArticle(slug: string): Promise<Article | null> {
@@ -56,11 +69,12 @@ export async function getArticle(slug: string): Promise<Article | null> {
   const result = await remark().use(remarkGfm).use(html, { sanitize: false }).process(content);
 
   const title = (data.title as string) || slug;
-  const description = (data.meta_description as string) || "Air purifier guide article.";
-  const author = (data.author as string) || "Dr. Alex Chen";
+  const description = (data.meta_description as string) || (data.description as string) || `${siteConfig.name} guide.`;
+  const author = (data.author as string) || siteConfig.author;
   const date = (data.datePublished as string) || "2026-03-10";
   const dateModified = (data.dateModified as string) || date;
   const category = "Guide";
+  const image = resolveImagePath(data.image as string | undefined);
 
   let htmlContent = result.toString();
 
@@ -82,8 +96,11 @@ export async function getArticle(slug: string): Promise<Article | null> {
     htmlContent,
     date,
     dateModified,
+    publishedAt: date,
+    updatedAt: dateModified,
     category,
     author,
+    image,
     faqSchema: parseJsonField(data.faq_schema),
     articleSchema: parseJsonField(data.article_schema),
   };

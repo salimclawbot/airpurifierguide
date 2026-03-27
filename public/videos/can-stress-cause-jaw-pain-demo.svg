@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <style>
+    @keyframes pulse { 0%,100% { opacity: 0.3; } 50% { opacity: 1; } }
+    @keyframes expand { 0%,100% { r: 15; } 50% { r: 22; } }
+    .step1 { animation: pulse 4s ease-in-out infinite; }
+    .step2 { animation: pulse 4s ease-in-out 1s infinite; }
+    .step3 { animation: pulse 4s ease-in-out 2s infinite; }
+    .step4 { animation: pulse 4s ease-in-out 3s infinite; }
+    .glow { animation: expand 3s ease-in-out infinite; }
+  </style>
+  <rect width="800" height="450" fill="#0f172a" rx="12"/>
+  <text x="400" y="40" text-anchor="middle" fill="#5eead4" font-family="system-ui,sans-serif" font-size="20" font-weight="700">Jaw Relaxation Exercise for Stress Relief</text>
+  <!-- Step 1 -->
+  <rect x="40" y="70" width="340" height="80" rx="10" fill="#1e293b" class="step1"/>
+  <text x="60" y="100" fill="#5eead4" font-family="system-ui,sans-serif" font-size="14" font-weight="700">Step 1: Awareness</text>
+  <text x="60" y="125" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="12">Notice your jaw position. Are teeth touching?</text>
+  <text x="60" y="140" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="12">Tongue pressed hard? Jaw muscles tight?</text>
+  <!-- Step 2 -->
+  <rect x="40" y="165" width="340" height="80" rx="10" fill="#1e293b" class="step2"/>
+  <text x="60" y="195" fill="#5eead4" font-family="system-ui,sans-serif" font-size="14" font-weight="700">Step 2: Release</text>
+  <text x="60" y="220" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="12">Separate teeth slightly. Place tongue tip</text>
+  <text x="60" y="235" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="12">gently behind upper front teeth.</text>
+  <!-- Step 3 -->
+  <rect x="40" y="260" width="340" height="80" rx="10" fill="#1e293b" class="step3"/>
+  <text x="60" y="290" fill="#5eead4" font-family="system-ui,sans-serif" font-size="14" font-weight="700">Step 3: Breathe</text>
+  <text x="60" y="315" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="12">Inhale slowly through nose (4 seconds).</text>
+  <text x="60" y="330" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="12">Exhale through mouth (6 seconds). Jaw drops.</text>
+  <!-- Step 4 -->
+  <rect x="40" y="355" width="340" height="80" rx="10" fill="#1e293b" class="step4"/>
+  <text x="60" y="385" fill="#5eead4" font-family="system-ui,sans-serif" font-size="14" font-weight="700">Step 4: Hold</text>
+  <text x="60" y="410" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="12">Maintain relaxed jaw for 10 seconds.</text>
+  <text x="60" y="425" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="12">Repeat 5 times. Practice hourly.</text>
+  <!-- Animated jaw diagram -->
+  <circle cx="580" cy="200" r="80" fill="#1e293b" stroke="#5eead4" stroke-width="2"/>
+  <!-- Head outline -->
+  <ellipse cx="580" cy="180" rx="50" ry="55" fill="none" stroke="#5eead4" stroke-width="1.5" opacity="0.5"/>
+  <!-- TMJ joint markers -->
+  <circle cx="540" cy="195" class="glow" fill="#14b8a6" opacity="0.6"/>
+  <circle cx="620" cy="195" class="glow" fill="#14b8a6" opacity="0.6"/>
+  <!-- Jaw outline -->
+  <path d="M540,205 Q550,250 580,260 Q610,250 620,205" stroke="#5eead4" stroke-width="2" fill="none" opacity="0.7">
+    <animate attributeName="d" values="M540,205 Q550,250 580,260 Q610,250 620,205;M540,205 Q550,260 580,275 Q610,260 620,205;M540,205 Q550,250 580,260 Q610,250 620,205" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <!-- Labels -->
+  <text x="580" y="330" text-anchor="middle" fill="#5eead4" font-family="system-ui,sans-serif" font-size="12" font-weight="600">TMJ Joint</text>
+  <text x="580" y="350" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">Animated: jaw opening + closing</text>
+  <!-- Timer -->
+  <text x="580" y="400" text-anchor="middle" fill="#fbbf24" font-family="system-ui,sans-serif" font-size="14" font-weight="700">Do this every hour during stress</text>
+  <text x="580" y="425" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">jawpainguide.com</text>
+</svg>

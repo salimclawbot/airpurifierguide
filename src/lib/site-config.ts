@@ -1,0 +1,75 @@
+export const siteConfig = {
+  name: "Jaw Pain Guide",
+  tagline: "Evidence-Based TMJ & Jaw Pain Relief Guides",
+  description:
+    "Expert-reviewed guides for TMJ disorder, bruxism, and jaw pain relief. Trusted by 50,000+ sufferers worldwide.",
+  url: "https://jawpainguide.com",
+  author: "Dr. Sarah Mitchell, Orofacial Pain Specialist",
+  primaryColor: "#0f766e",
+  niche: "tmj",
+  email: "hello@jawpainguide.com",
+  privacyEmail: "privacy@jawpainguide.com",
+  editorialEmail: "editorial@jawpainguide.com",
+  contactEmail: "contact@jawpainguide.com",
+  ogImage: "/og-image.jpg",
+  updatedLabel: "Updated March 2026",
+} as const;
+
+export const featuredGuides = [
+  {
+    slug: "tmj-treatment-at-home",
+    title: "TMJ Treatment at Home: 12 Exercises That Work",
+    description: "Physiotherapist-informed exercises and recovery planning for jaw pain relief.",
+    image: "/images/tmj-treatment-at-home-hero.png",
+    category: "Home Relief",
+  },
+  {
+    slug: "best-mouth-guard-for-tmj",
+    title: "Best Mouth Guard for TMJ: Top 7 Reviewed (2026)",
+    description: "OTC and custom options for clenching, grinding, and nighttime jaw pain.",
+    image: "/images/best-mouth-guard-for-tmj-hero.png",
+    category: "Product Guide",
+  },
+  {
+    slug: "tmj-vs-bruxism",
+    title: "TMJ vs Bruxism: Key Differences and How to Treat Both",
+    description: "Understand the overlap and what to do when symptoms collide.",
+    image: "/images/tmj-vs-bruxism-hero.png",
+    category: "Condition Guide",
+  },
+  {
+    slug: "best-night-guards-for-jaw-clenching",
+    title: "Best Night Guards for Jaw Clenching (2026) — Dentist Tested",
+    description: "Top-rated night guards to protect your teeth and ease jaw tension while you sleep.",
+    image: "/images/best-night-guards-for-jaw-clenching-hero.png",
+    category: "Product Guide",
+  },
+  {
+    slug: "tmj-diet",
+    title: "TMJ Diet Guide: Foods That Help and Hurt Your Jaw",
+    description: "What to eat and avoid when managing TMJ pain and jaw inflammation.",
+    image: "/images/tmj-diet-hero.png",
+    category: "Lifestyle",
+  },
+  {
+    slug: "tmj-exercises-for-pain-relief",
+    title: "TMJ Exercises for Pain Relief (With Step-by-Step Photos)",
+    description: "Targeted jaw exercises to reduce pain, improve mobility, and prevent flare-ups.",
+    image: "/images/tmj-exercises-for-pain-relief-hero.png",
+    category: "Exercises",
+  },
+  {
+    slug: "what-causes-tmj",
+    title: "TMJ Causes: Why Your Jaw Hurts and What To Do",
+    description: "Understand the root causes of TMJ disorder and how to address them.",
+    image: "/images/what-causes-tmj-hero.png",
+    category: "Education",
+  },
+  {
+    slug: "can-stress-cause-jaw-pain",
+    title: "Can Stress Cause Jaw Pain? (The Mind-Jaw Connection)",
+    description: "How stress triggers jaw pain through the fight-or-flight response, and proven strategies to break the cycle.",
+    image: "/images/can-stress-cause-jaw-pain-hero.svg",
+    category: "Stress & TMJ",
+  },
+] as const;

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 450" width="1000" height="450">
+  <rect width="1000" height="450" fill="#f8fafc" rx="16"/>
+  <text x="500" y="40" text-anchor="middle" fill="#0f766e" font-family="system-ui,sans-serif" font-size="22" font-weight="800">Daily Stress-Jaw Pain Management Plan</text>
+  <!-- Morning -->
+  <rect x="40" y="65" width="290" height="340" rx="14" fill="#fff" stroke="#f59e0b" stroke-width="2"/>
+  <rect x="40" y="65" width="290" height="40" rx="14" fill="#f59e0b"/>
+  <text x="185" y="92" text-anchor="middle" fill="#fff" font-family="system-ui,sans-serif" font-size="16" font-weight="700">MORNING</text>
+  <text x="70" y="130" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13">&#x2600; Apply warm compress (10 min)</text>
+  <text x="70" y="158" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13">&#x2600; Relaxed jaw exercise (3 sets)</text>
+  <text x="70" y="186" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13">&#x2600; Gentle jaw stretches</text>
+  <text x="70" y="214" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13">&#x2600; 5-min breathing exercise</text>
+  <text x="70" y="242" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13">&#x2600; Body scan for tension</text>
+  <rect x="70" y="270" width="230" height="50" rx="8" fill="#fffbeb"/>
+  <text x="185" y="292" text-anchor="middle" fill="#92400e" font-family="system-ui,sans-serif" font-size="12" font-weight="600">Morning is when stress-related</text>
+  <text x="185" y="310" text-anchor="middle" fill="#92400e" font-family="system-ui,sans-serif" font-size="12" font-weight="600">jaw pain is typically worst</text>
+  <!-- Midday -->
+  <rect x="355" y="65" width="290" height="340" rx="14" fill="#fff" stroke="#0ea5e9" stroke-width="2"/>
+  <rect x="355" y="65" width="290" height="40" rx="14" fill="#0ea5e9"/>
+  <text x="500" y="92" text-anchor="middle" fill="#fff" font-family="system-ui,sans-serif" font-size="16" font-weight="700">MIDDAY</text>
+  <text x="385" y="130" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13">&#x1F31E; Jaw posture check</text>
+  <text x="385" y="158" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13">&#x1F31E; Lips together, teeth apart</text>
+  <text x="385" y="186" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13">&#x1F31E; Chin tucks at desk (5 reps)</text>
+  <text x="385" y="214" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13">&#x1F31E; Walk + decompress (10 min)</text>
+  <text x="385" y="242" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13">&#x1F31E; Progressive muscle relaxation</text>
+  <rect x="385" y="270" width="230" height="50" rx="8" fill="#eff6ff"/>
+  <text x="500" y="292" text-anchor="middle" fill="#1e40af" font-family="system-ui,sans-serif" font-size="12" font-weight="600">Set hourly phone reminders</text>
+  <text x="500" y="310" text-anchor="middle" fill="#1e40af" font-family="system-ui,sans-serif" font-size="12" font-weight="600">to check jaw position</text>
+  <!-- Evening -->
+  <rect x="670" y="65" width="290" height="340" rx="14" fill="#fff" stroke="#7c3aed" stroke-width="2"/>
+  <rect x="670" y="65" width="290" height="40" rx="14" fill="#7c3aed"/>
+  <text x="815" y="92" text-anchor="middle" fill="#fff" font-family="system-ui,sans-serif" font-size="16" font-weight="700">EVENING</text>
+  <text x="700" y="130" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13">&#x1F319; Jaw massage (5 min)</text>
+  <text x="700" y="158" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13">&#x1F319; Full TMJ exercise routine</text>
+  <text x="700" y="186" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13">&#x1F319; Warm bath or shower</text>
+  <text x="700" y="214" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13">&#x1F319; Guided meditation (10 min)</text>
+  <text x="700" y="242" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13">&#x1F319; Insert night guard</text>
+  <rect x="700" y="270" width="230" height="50" rx="8" fill="#f5f3ff"/>
+  <text x="815" y="292" text-anchor="middle" fill="#5b21b6" font-family="system-ui,sans-serif" font-size="12" font-weight="600">Consistent bedtime routine</text>
+  <text x="815" y="310" text-anchor="middle" fill="#5b21b6" font-family="system-ui,sans-serif" font-size="12" font-weight="600">reduces nighttime bruxism</text>
+  <!-- Bottom bar -->
+  <rect x="40" y="420" width="920" height="20" rx="10" fill="#0f766e" opacity="0.1"/>
+  <text x="500" y="437" text-anchor="middle" fill="#0f766e" font-family="system-ui,sans-serif" font-size="11" font-weight="600">Consistency is key: most patients see significant improvement within 2-4 weeks of daily practice</text>
+</svg>

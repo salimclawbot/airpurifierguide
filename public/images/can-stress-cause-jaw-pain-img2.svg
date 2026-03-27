@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" width="1000" height="500">
+  <rect width="1000" height="500" fill="#f8fafc" rx="16"/>
+  <text x="500" y="45" text-anchor="middle" fill="#0f766e" font-family="system-ui,sans-serif" font-size="24" font-weight="800">Physical Symptoms of Stress-Related Jaw Pain</text>
+  <!-- Symptom cards -->
+  <rect x="40" y="75" width="180" height="110" rx="10" fill="#fff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <circle cx="130" cy="110" r="18" fill="#fef2f2"/>
+  <text x="130" y="116" text-anchor="middle" fill="#ef4444" font-family="system-ui,sans-serif" font-size="20">&#x1F62C;</text>
+  <text x="130" y="150" text-anchor="middle" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Jaw Tightness</text>
+  <text x="130" y="170" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">Constant tension</text>
+
+  <rect x="240" y="75" width="180" height="110" rx="10" fill="#fff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <circle cx="330" cy="110" r="18" fill="#fef2f2"/>
+  <text x="330" y="116" text-anchor="middle" fill="#ef4444" font-family="system-ui,sans-serif" font-size="20">&#x1F4A2;</text>
+  <text x="330" y="150" text-anchor="middle" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Headaches</text>
+  <text x="330" y="170" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">Temple + forehead</text>
+
+  <rect x="440" y="75" width="180" height="110" rx="10" fill="#fff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <circle cx="530" cy="110" r="18" fill="#fef2f2"/>
+  <text x="530" y="116" text-anchor="middle" fill="#ef4444" font-family="system-ui,sans-serif" font-size="20">&#x1F442;</text>
+  <text x="530" y="150" text-anchor="middle" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Ear Pain</text>
+  <text x="530" y="170" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">Referred TMJ pain</text>
+
+  <rect x="640" y="75" width="180" height="110" rx="10" fill="#fff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <circle cx="730" cy="110" r="18" fill="#fef2f2"/>
+  <text x="730" y="116" text-anchor="middle" fill="#ef4444" font-family="system-ui,sans-serif" font-size="20">&#x1F50A;</text>
+  <text x="730" y="150" text-anchor="middle" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Clicking/Popping</text>
+  <text x="730" y="170" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">Joint dysfunction</text>
+
+  <rect x="40" y="205" width="180" height="110" rx="10" fill="#fff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <circle cx="130" cy="240" r="18" fill="#fffbeb"/>
+  <text x="130" y="246" text-anchor="middle" fill="#f59e0b" font-family="system-ui,sans-serif" font-size="20">&#x1F634;</text>
+  <text x="130" y="280" text-anchor="middle" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Sleep Disruption</text>
+  <text x="130" y="300" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">Nighttime grinding</text>
+
+  <rect x="240" y="205" width="180" height="110" rx="10" fill="#fff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <circle cx="330" cy="240" r="18" fill="#fffbeb"/>
+  <text x="330" y="246" text-anchor="middle" fill="#f59e0b" font-family="system-ui,sans-serif" font-size="20">&#x1F37D;</text>
+  <text x="330" y="280" text-anchor="middle" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Chewing Pain</text>
+  <text x="330" y="300" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">Muscle fatigue</text>
+
+  <rect x="440" y="205" width="180" height="110" rx="10" fill="#fff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <circle cx="530" cy="240" r="18" fill="#fffbeb"/>
+  <text x="530" y="246" text-anchor="middle" fill="#f59e0b" font-family="system-ui,sans-serif" font-size="20">&#x1F910;</text>
+  <text x="530" y="280" text-anchor="middle" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Limited Opening</text>
+  <text x="530" y="300" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">Lockjaw episodes</text>
+
+  <rect x="640" y="205" width="180" height="110" rx="10" fill="#fff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <circle cx="730" cy="240" r="18" fill="#fffbeb"/>
+  <text x="730" y="246" text-anchor="middle" fill="#f59e0b" font-family="system-ui,sans-serif" font-size="20">&#x1F9B4;</text>
+  <text x="730" y="280" text-anchor="middle" fill="#1e293b" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Neck/Shoulder Pain</text>
+  <text x="730" y="300" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">Tension chain</text>
+
+  <!-- Bottom note -->
+  <rect x="40" y="345" width="920" height="130" rx="12" fill="#f0fdfa" stroke="#99f6e4" stroke-width="1.5"/>
+  <text x="500" y="380" text-anchor="middle" fill="#0f766e" font-family="system-ui,sans-serif" font-size="16" font-weight="700">Stress-Jaw Pain Cycle</text>
+  <text x="500" y="410" text-anchor="middle" fill="#475569" font-family="system-ui,sans-serif" font-size="13">Stress causes muscle tension -> muscle tension causes jaw pain -> jaw pain increases stress -> cycle repeats</text>
+  <text x="500" y="440" text-anchor="middle" fill="#475569" font-family="system-ui,sans-serif" font-size="13">Breaking the cycle requires addressing BOTH the physical symptoms AND the underlying stress response.</text>
+  <text x="500" y="465" text-anchor="middle" fill="#0f766e" font-family="system-ui,sans-serif" font-size="11" font-weight="600">Source: American Academy of Orofacial Pain (AAOP) Clinical Guidelines</text>
+</svg>
