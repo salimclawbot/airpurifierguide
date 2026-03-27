@@ -1,7 +1,7 @@
 ---
 title: "Best Melatonin Dosage for Adults (Evidence Guide)"
 slug: best-melatonin-dosage-adults
-description: "Complete evidence-based melatonin dosage guide for adults. Learn optimal dosing 0.5-5 mg, timing strategies, safety, and when melatonin helps sleep."
+meta_description: "Complete evidence-based melatonin dosage guide for adults. Learn optimal dosing 0.5-5 mg, timing strategies, safety, and when melatonin helps sleep."
 publishedAt: "2026-03-28"
 author: "Dr. Sarah Chen, Sleep Neuroscientist"
 keywords: ["melatonin dosage adults", "how much melatonin to take", "melatonin for sleep", "melatonin timing", "melatonin side effects", "best melatonin dosage 2026"]
@@ -469,6 +469,9 @@ The mechanism likely involves receptor sensitivity. By taking 2 nights off per w
 The combination is far more powerful than any single element.
 
 ---
+
+![Sleep research data showing melatonin effectiveness across studies](/images/articles/best-melatonin-research.jpg)
+*Evidence from over 150 clinical trials consistently supports melatonin for circadian rhythm disorders.*
 
 ## Best Melatonin Products
 
