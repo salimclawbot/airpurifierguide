@@ -15,6 +15,9 @@ export interface Article {
   dateModified: string;
   category: string;
   author: string;
+  image: string;
+  publishedAt: string;
+  updatedAt: string;
   faqSchema?: Record<string, unknown> | null;
   articleSchema?: Record<string, unknown> | null;
 }
@@ -98,6 +101,9 @@ export async function getArticle(slug: string): Promise<Article | null> {
     description,
     excerpt: content.slice(0, 200),
     content,
+    image: `/images/articles/${slug}-hero.jpg`,
+    publishedAt: date,
+    updatedAt: date,
     htmlContent: (() => {
       let html = result.toString();
       html = html.replace(/<(h[2-6])>(.*?)<\/\1>/g, (match: string, tag: string, text: string) => {
