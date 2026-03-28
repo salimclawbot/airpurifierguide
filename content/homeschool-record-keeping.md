@@ -1,7 +1,8 @@
 ---
 title: "Homeschool Record Keeping: What You Are Required to Track (2026 Guide)"
 slug: homeschool-record-keeping
-date: 2026-03-29
+datePublished: "2026-03-29"
+dateModified: "2026-03-29"
 category: "Homeschool Administration"
 author: "Kate B., Homeschool Consultant"
 meta_description: "Homeschool record keeping explained: what you are legally required to track by state, how to organize attendance logs, portfolios, and transcripts, plus the best tools and planners for 2026."

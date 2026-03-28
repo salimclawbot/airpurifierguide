@@ -30,11 +30,32 @@ function toSlug(text: string): string {
   return text.toLowerCase().replace(/[^a-z0-9\s-]/g, "").replace(/\s+/g, "-").replace(/-+/g, "-").trim();
 }
 
-function parseJsonField(value: unknown): Record<string, unknown> | null {
-  if (!value || typeof value !== "string") return null;
+function extractSchemaField(raw: string, fieldName: string): string | null {
+  // Single-quoted on one line
+  const match = raw.match(new RegExp(`^${fieldName}:\\s*'([\\s\\S]*?)'\\s*$`, "m"));
+  if (match) return match[1].replace(/''/g, "'");
+  // Double-quoted on one line
+  const matchDQ = raw.match(new RegExp(`^${fieldName}:\\s*"([\\s\\S]*?)"\\s*$`, "m"));
+  if (matchDQ) return matchDQ[1];
+  // Block scalar (| or >)
+  const matchBlock = raw.match(new RegExp(`^${fieldName}:\\s*[|>]-?\\n((?:[ \\t]+.*\\n)*)`, "m"));
+  if (matchBlock) return matchBlock[1].replace(/^[ \t]+/gm, "").trim();
+  return null;
+}
+
+function stripSchemaFields(raw: string): string {
+  // Strip both single-line and multi-line block scalar schema fields
+  return raw
+    .replace(/^faq_schema:\s*[|>]-?\n(?:[ \t]+.*\n)*/gm, "faq_schema: null\n")
+    .replace(/^faq_schema:.*$/m, "faq_schema: null")
+    .replace(/^article_schema:\s*[|>]-?\n(?:[ \t]+.*\n)*/gm, "article_schema: null\n")
+    .replace(/^article_schema:.*$/m, "article_schema: null");
+}
+
+function parseJsonField(value: string | null): Record<string, unknown> | null {
+  if (!value) return null;
   try {
-    const normalized = value.replaceAll("https://tinnitusguides.com", siteConfig.url);
-    return JSON.parse(normalized);
+    return JSON.parse(value);
   } catch {
     return null;
   }
@@ -60,7 +81,10 @@ export async function getArticle(slug: string): Promise<Article | null> {
   if (!fs.existsSync(filePath)) return null;
 
   const raw = fs.readFileSync(filePath, "utf-8");
-  const parsed = matter(raw);
+  const faqSchemaStr = extractSchemaField(raw, "faq_schema");
+  const articleSchemaStr = extractSchemaField(raw, "article_schema");
+  const safeRaw = stripSchemaFields(raw);
+  const parsed = matter(safeRaw);
   const data = parsed.data as Record<string, unknown>;
 
   const content = processContent(parsed.content);
@@ -68,9 +92,14 @@ export async function getArticle(slug: string): Promise<Article | null> {
 
   const title = (data.title as string) || slug;
   const description = (data.meta_description as string) || (data.description as string) || `${siteConfig.name} guide.`;
-  const author = (data.author as string) || siteConfig.author;
-  const date = (data.datePublished as string) || "2026-03-10";
-  const dateModified = (data.dateModified as string) || date;
+  const rawAuthor = data.author;
+  const author = typeof rawAuthor === "object" && rawAuthor !== null && "name" in rawAuthor
+    ? String((rawAuthor as Record<string, unknown>).name)
+    : String(rawAuthor || siteConfig.author);
+  const rawDate = data.datePublished ?? data.date;
+  const rawModified = data.dateModified;
+  const date = rawDate instanceof Date ? rawDate.toISOString().split("T")[0] : String(rawDate || "2026-03-10");
+  const dateModified = rawModified instanceof Date ? rawModified.toISOString().split("T")[0] : String(rawModified || date);
   const category = "Guide";
   const image = resolveImagePath(data.image as string | undefined);
 
@@ -99,8 +128,8 @@ export async function getArticle(slug: string): Promise<Article | null> {
     category,
     author,
     image,
-    faqSchema: parseJsonField(data.faq_schema),
-    articleSchema: parseJsonField(data.article_schema),
+    faqSchema: parseJsonField(faqSchemaStr),
+    articleSchema: parseJsonField(articleSchemaStr),
   };
 }
 

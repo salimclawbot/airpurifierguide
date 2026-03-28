@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       title: article.title,
       description: article.description,
       url: `${siteConfig.url}/${article.slug}`,
-      images: [{ url: `https://tinnitusguides.com/og-image.jpg`, width: 1200, height: 630, alt: article.title }],
+      images: [{ url: `${siteConfig.url}/og-image.jpg`, width: 1200, height: 630, alt: article.title }],
       type: "article",
       siteName: siteConfig.name,
     },
