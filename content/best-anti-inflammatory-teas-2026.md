@@ -11,8 +11,7 @@ secondary_keywords:
   - chamomile tea inflammation
   - hibiscus tea health benefits
   - best teas to reduce inflammation
-datePublished: "2026-03-29"
-dateModified: "2026-03-29"
+date: "2026-03-29"
 author: "Dr. Sophie T."
 author_credentials: "PhD, Nutritional Biochemistry — Inflammation & Phytochemistry Researcher"
 medical_reviewer: "Editorial Board, AntiInflammatoryBasics.com"
