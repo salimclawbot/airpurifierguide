@@ -488,3 +488,6 @@ The information provided in this article is for educational and informational pu
 ---
 
 
+## Visual Guide Gallery
+
+![tmj treatment at home visual 1](/images/articles/tmj-treatment-at-home-gallery-1.jpg)

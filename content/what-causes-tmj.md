@@ -307,3 +307,14 @@ A: Yes. Women are two to nine times more likely than men to develop TMD, dependi
 6. Lobbezoo, F., et al. "Bruxism Defined and Graded: An International Consensus." *Journal of Oral Rehabilitation*, 2013;40(1):2–4.
 7. Fernandes, G., et al. "Association Between Sleep Bruxism and Temporomandibular Disorders: A Cross-Sectional Study." *Journal of Orofacial Pain*, 2013;27(3):190–198.
 8. American Dental Association (ADA). "Temporomandibular Disorders (TMD)." ADA Clinical Practice Guidelines. https://www.ada.org
+
+
+## Visual Guide Gallery
+
+![what causes tmj visual 1](/images/articles/what-causes-tmj-gallery-1.jpg)
+![what causes tmj visual 2](/images/articles/what-causes-tmj-gallery-2.jpg)
+![what causes tmj visual 3](/images/articles/what-causes-tmj-gallery-3.jpg)
+![what causes tmj visual 4](/images/articles/what-causes-tmj-gallery-4.jpg)
+![what causes tmj visual 5](/images/articles/what-causes-tmj-gallery-5.jpg)
+![what causes tmj visual 6](/images/articles/what-causes-tmj-gallery-6.jpg)
+![what causes tmj visual 7](/images/articles/what-causes-tmj-gallery-7.jpg)

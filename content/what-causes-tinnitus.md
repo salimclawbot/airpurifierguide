@@ -325,3 +325,11 @@ Unilateral tinnitus — tinnitus in just one ear — deserves medical evaluation
 *This article is for educational purposes only and does not constitute medical advice. If you are experiencing tinnitus, please consult a qualified audiologist or healthcare provider for personalized evaluation and treatment recommendations.*
 
 ---
+
+
+## Visual Guide Gallery
+
+![what causes tinnitus visual 1](/images/articles/what-causes-tinnitus-gallery-1.jpg)
+![what causes tinnitus visual 2](/images/articles/what-causes-tinnitus-gallery-2.jpg)
+![what causes tinnitus visual 3](/images/articles/what-causes-tinnitus-gallery-3.jpg)
+![what causes tinnitus visual 4](/images/articles/what-causes-tinnitus-gallery-4.jpg)

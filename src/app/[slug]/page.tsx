@@ -1,11 +1,7 @@
-import React from "react";
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
-import ADHDVideo from "@/components/ADHDVideo";
 import { getArticle, getAllSlugs } from "@/lib/articles";
-import ReactMarkdown from "react-markdown";
-import remarkGfm from "remark-gfm";
-import rehypeRaw from "rehype-raw";
+import { siteConfig } from "@/lib/site-config";
 
 interface PageProps { params: { slug: string } }
 
@@ -19,125 +15,50 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: { absolute: article.title },
     description: article.description,
-    alternates: { canonical: `https://adhdproductivitytips.com/${params.slug}` },
+    alternates: { canonical: `${siteConfig.url}/${article.slug}` },
     openGraph: {
       title: article.title,
       description: article.description,
-      url: `https://adhdproductivitytips.com/${params.slug}`,
-      images: [{ url: `https://adhdproductivitytips.com/og-image.jpg`, width: 1200, height: 630 }],
+      url: `${siteConfig.url}/${article.slug}`,
+      images: [{ url: `https://tinnitusguides.com/og-image.jpg`, width: 1200, height: 630, alt: article.title }],
       type: "article",
-      siteName: "ADHD Productivity Tips",
-    },
-    twitter: {
-      card: "summary_large_image",
-      title: article.title,
-      description: article.description,
-      images: [`https://adhdproductivitytips.com/og-image.jpg`],
+      siteName: siteConfig.name,
     },
   };
-}
-
-
-// Extract {#custom-id} from heading text and return clean id + display text
-function extractHeadingId(children: React.ReactNode): { id: string; display: string } {
-  const raw = Array.isArray(children) 
-    ? (children as React.ReactNode[]).map(c => (typeof c === "string" ? c : "")).join("")
-    : (typeof children === "string" ? children : "");
-  const m = raw.match(/\{#([^}]+)\}/);
-  if (m) return { id: m[1], display: raw.replace(/\s*\{#[^}]+\}/, "").trim() };
-  const id = raw.toLowerCase().replace(/[^a-z0-9\s-]/g, "").replace(/\s+/g, "-").replace(/-+/g, "-").trim();
-  return { id, display: raw };
 }
 
 export default async function ArticlePage({ params }: PageProps) {
   const article = await getArticle(params.slug);
   if (!article) notFound();
 
-  const articleSchema = article.articleSchema ?? {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    headline: article.title,
-    description: article.description,
-    author: { "@type": "Person", name: article.author || "Dr. Marcus Webb" },
-    publisher: {
-      "@type": "Organization",
-      name: "ADHD Productivity Tips",
-      logo: { "@type": "ImageObject", url: `https://adhdproductivitytips.com/icon.svg` },
-    },
-    datePublished: article.date,
-    dateModified: article.dateModified ?? article.date,
-    mainEntityOfPage: { "@type": "WebPage", "@id": `https://adhdproductivitytips.com/${article.slug}` },
-  };
+  const articleSchema =
+    article.articleSchema ??
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      headline: article.title,
+      description: article.description,
+      author: { "@type": "Person", name: article.author || siteConfig.author },
+      publisher: {
+        "@type": "Organization",
+        name: siteConfig.name,
+        logo: { "@type": "ImageObject", url: `${siteConfig.url}/icon.svg` },
+      },
+      datePublished: article.date,
+      dateModified: article.dateModified,
+      mainEntityOfPage: { "@type": "WebPage", "@id": `${siteConfig.url}/${article.slug}` },
+    };
 
   return (
     <article className="max-w-4xl mx-auto px-4 sm:px-6 py-10">
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
-      />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
       {article.faqSchema && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(article.faqSchema) }}
-        />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(article.faqSchema) }} />
       )}
-      <header className="mb-8">
-        <p className="text-sm font-semibold uppercase tracking-wide text-blue-600 mb-2">
-          {article.category}
-        </p>
-        <h1 className="text-3xl sm:text-4xl font-extrabold text-gray-900 leading-tight mb-4">
-          {article.title}
-        </h1>
-        <p className="text-lg text-gray-600 mb-4">{article.description}</p>
-        <div className="flex items-center gap-3 text-sm text-gray-500">
-          <span>By <strong className="text-gray-700">{article.author || "Dr. Marcus Webb"}</strong></span>
-          <span>·</span>
-          <time dateTime={article.date}>{new Date(article.date).toLocaleDateString("en-AU", { year: "numeric", month: "long", day: "numeric" })}</time>
-        </div>
-      </header>
-
-      {params.slug === "best-adhd-productivity-systems-2026" && (
-        <div className="mt-8"><h2 className="text-2xl font-bold text-gray-900 mb-4">📽️ 30-Second Summary</h2><ADHDVideo variant="systems" /></div>
-      )}
-      {params.slug === "adhd-time-management-strategies" && (
-        <div className="mt-8"><h2 className="text-2xl font-bold text-gray-900 mb-4">📽️ 30-Second Summary</h2><ADHDVideo variant="timemanagement" /></div>
-      )}
-      {params.slug === "best-apps-for-adhd-adults-2026" && (
-        <div className="mt-8"><h2 className="text-2xl font-bold text-gray-900 mb-4">📽️ 30-Second Summary</h2><ADHDVideo variant="apps" /></div>
-      )}
-
-      <div className="prose prose-slate max-w-none mt-8">
-        <ReactMarkdown
-          remarkPlugins={[remarkGfm]}
-          rehypePlugins={[rehypeRaw]}
-          components={{
-            h2: ({ children }) => {
-              const { id, display } = extractHeadingId(children);
-              return <h2 id={id}>{display}</h2>;
-            },
-            h3: ({ children }) => {
-              const { id, display } = extractHeadingId(children);
-              return <h3 id={id}>{display}</h3>;
-            },
-            h4: ({ children }) => {
-              const { id, display } = extractHeadingId(children);
-              return <h4 id={id}>{display}</h4>;
-            },
-            h5: ({ children }) => {
-              const { id, display } = extractHeadingId(children);
-              return <h5 id={id}>{display}</h5>;
-            },
-            img: ({ src, alt }) => (
-              <figure className="my-6">
-                <img src={src} alt={alt || ""} className="rounded-lg shadow-md w-full" loading="lazy" />
-                {alt && <figcaption className="text-center text-sm text-gray-500 mt-2">{alt}</figcaption>}
-              </figure>
-            ),
-          }}
-        >
-          {article.content}
-        </ReactMarkdown>
-      </div>
+      <p className="text-xs font-semibold uppercase tracking-wide text-cyan-700">{article.category}</p>
+      <h1 className="mt-2 text-3xl sm:text-4xl font-extrabold text-slate-900">{article.title}</h1>
+      <p className="mt-3 text-slate-600">By {article.author} · Updated {article.dateModified}</p>
+      <div className="prose prose-slate max-w-none mt-8" dangerouslySetInnerHTML={{ __html: article.htmlContent }} />
     </article>
   );
 }

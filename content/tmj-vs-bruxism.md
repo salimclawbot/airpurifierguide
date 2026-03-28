@@ -339,3 +339,6 @@ All statistics cited in this article are drawn from peer-reviewed research, gove
 ---
 
 
+## Visual Guide Gallery
+
+![tmj vs bruxism visual 1](/images/articles/tmj-vs-bruxism-gallery-1.jpg)

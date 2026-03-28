@@ -402,3 +402,8 @@ This article was researched and written by Dr. Sarah Mitchell in collaboration w
 ---
 
 *Medical Disclaimer: The information provided in this article is for educational and informational purposes only and is not intended as medical or dental advice. It should not be used as a substitute for professional diagnosis or treatment. TMJ disorders vary in cause and severity, and what works for one person may not be appropriate for another. Always consult with a qualified dentist, orofacial pain specialist, or healthcare provider before starting any new treatment, including the use of a mouth guard or night guard. Jaw Pain Guide and its contributors are not responsible for any adverse effects or consequences resulting from the use of information or products discussed in this article.*
+
+
+## Visual Guide Gallery
+
+![best mouth guard for tmj visual 1](/images/articles/best-mouth-guard-for-tmj-gallery-1.jpg)
