@@ -545,3 +545,18 @@ This article was produced through an eight-week structured testing process with 
 **Product information** was sourced from manufacturer websites, Amazon product listings, and direct physical evaluation of each planner. Prices were verified as of March 2026 and reflect typical online retail pricing. All Amazon links use the affiliate tag `theforge05-20` in accordance with our affiliate disclosure policy.
 
 **Disclosure:** This article contains affiliate links. If you purchase through these links, we may earn a commission at no additional cost to you. This does not influence our testing methodology or rankings. All planners were purchased at retail price for independent evaluation.
+
+
+## Visual Guide Gallery
+
+![best adhd planners adults visual 1](/images/articles/best-adhd-planners-adults-gallery-1.jpg)
+![best adhd planners adults visual 2](/images/articles/best-adhd-planners-adults-gallery-2.jpg)
+![best adhd planners adults visual 3](/images/articles/best-adhd-planners-adults-gallery-3.jpg)
+![best adhd planners adults visual 4](/images/articles/best-adhd-planners-adults-gallery-4.jpg)
+![best adhd planners adults visual 5](/images/articles/best-adhd-planners-adults-gallery-5.jpg)
+![best adhd planners adults visual 6](/images/articles/best-adhd-planners-adults-gallery-6.jpg)
+
+
+## Visual Guide Gallery
+
+![best adhd planners adults image 1](/images/articles/best-adhd-planners-adults-generated-1.jpg)

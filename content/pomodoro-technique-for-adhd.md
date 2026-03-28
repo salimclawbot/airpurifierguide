@@ -340,3 +340,8 @@ Forest (gamified), Time Timer (visual countdown), and Focusmate (body doubling) 
 *By Dr. Marcus Webb, Clinical Psychologist & ADHD Coach*
 
 Dr. Marcus Webb is a licensed clinical psychologist specializing in adult ADHD. This site may earn commissions from qualifying purchases. Last updated March 2026.
+
+
+## Visual Guide Gallery
+
+![pomodoro technique for adhd image 1](/images/articles/pomodoro-technique-for-adhd-generated-1.jpg)

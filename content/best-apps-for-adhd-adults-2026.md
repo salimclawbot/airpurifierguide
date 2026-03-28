@@ -483,3 +483,14 @@ All apps were tested personally for a minimum of two weeks on both iOS and Andro
 **Disclosure:** I have no financial relationship with any app or company mentioned in this article. All recommendations are based solely on clinical experience and client outcomes.
 
 *Dr. Marcus Webb is a clinical psychologist and ADHD coach with 14 years of experience specialising in executive function strategies for adults with ADHD.*
+
+
+## Visual Guide Gallery
+
+![best apps for adhd adults 2026 visual 1](/images/articles/best-apps-for-adhd-adults-2026-gallery-1.jpg)
+![best apps for adhd adults 2026 visual 2](/images/articles/best-apps-for-adhd-adults-2026-gallery-2.jpg)
+![best apps for adhd adults 2026 visual 3](/images/articles/best-apps-for-adhd-adults-2026-gallery-3.jpg)
+![best apps for adhd adults 2026 visual 4](/images/articles/best-apps-for-adhd-adults-2026-gallery-4.jpg)
+![best apps for adhd adults 2026 visual 5](/images/articles/best-apps-for-adhd-adults-2026-gallery-5.jpg)
+![best apps for adhd adults 2026 visual 6](/images/articles/best-apps-for-adhd-adults-2026-gallery-6.jpg)
+![best apps for adhd adults 2026 visual 7](/images/articles/best-apps-for-adhd-adults-2026-gallery-7.jpg)
