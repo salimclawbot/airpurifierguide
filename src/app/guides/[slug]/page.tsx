@@ -28,13 +28,13 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       url: `${siteConfig.url}/guides/${article.slug}`,
       type: "article",
       siteName: siteConfig.name,
-      images: [{ url: article.image }],
+      images: [{ url: `/images/articles/${article.slug}-hero.jpg` }],
     },
     twitter: {
       card: "summary_large_image",
       title: article.title,
       description: article.description,
-      images: [article.image],
+      images: [`/images/articles/${article.slug}-hero.jpg`],
     },
   };
 }
@@ -53,7 +53,7 @@ export default async function ArticlePage({ params }: PageProps) {
     "@type": "Article",
     headline: article.title,
     description: article.description,
-    image: `${siteConfig.url}${article.image}`,
+    image: `${siteConfig.url}/images/articles/${article.slug}-hero.jpg`,
     author: { "@type": "Person", name: article.author },
     publisher: {
       "@type": "Organization",
@@ -61,8 +61,8 @@ export default async function ArticlePage({ params }: PageProps) {
       url: siteConfig.url,
       logo: { "@type": "ImageObject", url: `${siteConfig.url}/icon.svg` },
     },
-    datePublished: article.publishedAt,
-    dateModified: article.updatedAt,
+    datePublished: article.date,
+    dateModified: article.dateModified,
     mainEntityOfPage: {
       "@type": "WebPage",
       "@id": `${siteConfig.url}/guides/${article.slug}`,
@@ -87,12 +87,12 @@ export default async function ArticlePage({ params }: PageProps) {
         <h1 className="mt-4 max-w-4xl text-3xl font-black tracking-tight sm:text-5xl">{article.title}</h1>
         <p className="mt-4 max-w-3xl text-lg leading-8 text-teal-50">{article.description}</p>
         <p className="mt-6 text-sm text-teal-100">
-          By {article.author} · Published {article.publishedAt} · Updated {article.updatedAt}
+          By {article.author} · Published {article.date} · Updated {article.dateModified}
         </p>
       </div>
 
       <div className="relative mt-8 aspect-[16/8] overflow-hidden rounded-[2rem] border border-slate-200 bg-slate-100">
-        <Image src={article.image} alt={article.title} fill className="object-cover" priority />
+        <Image src={`/images/articles/${article.slug}-hero.jpg`} alt={article.title} fill className="object-cover" priority />
       </div>
 
       <div className="mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_280px]">
