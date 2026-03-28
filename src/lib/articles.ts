@@ -130,3 +130,23 @@ export function getAllSlugs(): string[] {
     .filter((f) => f.endsWith(".md"))
     .map((f) => f.replace(/\.md$/, ""));
 }
+
+export async function getAllArticles(): Promise<
+  { slug: string; title: string; description: string; image: string; publishedAt: string }[]
+> {
+  const slugs = getAllSlugs();
+  const articles = await Promise.all(
+    slugs.map(async (slug) => {
+      const article = await getArticle(slug);
+      if (!article) return null;
+      return {
+        slug: article.slug,
+        title: article.title,
+        description: article.description,
+        image: `/images/articles/${slug}-hero.jpg`,
+        publishedAt: article.date,
+      };
+    })
+  );
+  return articles.filter(Boolean) as { slug: string; title: string; description: string; image: string; publishedAt: string }[];
+}
